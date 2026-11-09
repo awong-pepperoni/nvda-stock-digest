@@ -1,0 +1,382 @@
+{
+  "generated": "2026-11-08",
+  "meta": {
+    "feed": "nvda_stock",
+    "title": "NVDA Stock Digest",
+    "tagline": "What r/NVDA_Stock said, run by run",
+    "about": "Each digest is a snapshot of what r/NVDA_Stock was discussing when it ran, taken from Reddit's \"hot\" ranking, which has no time window. Everything is what Reddit users claim unless a line says it was checked against a primary source such as an SEC filing or an NVIDIA or partner announcement. Analyst price targets and valuation figures are quoted as reported, never computed here. Nothing here is financial advice. Launches, deals and claims that play out over time are tracked in the Tracker tab.",
+    "durable_label": "Tracker",
+    "durable_heading": "Claims tracker",
+    "topics": {
+      "mustknow": "Must know",
+      "news": "Company news",
+      "products": "Products & data center",
+      "china": "China & exports",
+      "analysts": "Analysts",
+      "valuation": "Valuation",
+      "sentiment": "Sentiment",
+      "unverified": "Unverified claims",
+      "coverage": "Coverage",
+      "other": "Other"
+    },
+    "source_note": "from Reddit's hot threads"
+  },
+  "digests": [
+    {
+      "date": "2026-11-08",
+      "title": "NVDA stock digest",
+      "intro_html": "<p>The first run of this feed. Two things dominated the sub. One was the Jensen Huang story, which went from press reports and a congressional letter earlier in the week to a board investigation and a personal apology from Huang on 8 November. The other was a week-long argument about whether the election-day backlash against data centres slows NVIDIA's growth. Earnings are on 17 November, the day before the briefing the House chairs asked Huang to attend.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>NVIDIA's board has opened an independent investigation after reports that Jensen Huang was the target of a foreign intelligence effort, and Huang has apologised to staff in writing.</strong>",
+              "html": "<p><strong>NVIDIA's board has opened an independent investigation after reports that Jensen Huang was the target of a foreign intelligence effort, and Huang has apologised to staff in writing.</strong> Both statements were posted to NVIDIA's newsroom on 8 November, days after three House Republican committee chairs asked Huang for a closed-door briefing about his contacts with Megaspeed executive Alice Huang.</p>\n<ul>\n<li><strong>Why it matters:</strong> It is the first time the company itself has treated the reports as a governance matter rather than routine customer contact. A committee of independent directors with outside counsel will run the inquiry, and the board says it &quot;has no reason to believe&quot; national security or NVIDIA secrets were compromised. Huang's email to employees apologises for being unfaithful to his wife, says he has fallen short of his responsibility to the company, and says he will cooperate fully.</li>\n<li><strong>What to watch:</strong> the third-quarter results and call on 17 November at 2 p.m. PT; the closed-door briefing the chairs requested for 18 November, with a reply asked for by 11 November; any update from the board, which says it will report further &quot;as appropriate&quot;.</li>\n<li><strong>Numbers:</strong> none material. The chairs are Brian Mast (Foreign Affairs), John Moolenaar (China Select Committee) and Rick Crawford (Intelligence), as reported. Secondary coverage describes the letter as a request for a voluntary briefing, not a subpoena.</li>\n<li><strong>Caveats:</strong> The underlying espionage reporting is the press's, not NVIDIA's. Singapore's government denied that it had investigated Alice Huang, as quoted in <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xm0pkr/\" target=\"_blank\" rel=\"noopener noreferrer\">a 10-point r/NVDA_Stock post</a>. No house.gov copy of the letter was found, so its date and terms rest on news coverage. The sub's most upvoted reading, across <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xr943m/\" target=\"_blank\" rel=\"noopener noreferrer\">a 277-point thread</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xr8ivn/\" target=\"_blank\" rel=\"noopener noreferrer\">the 105-comment board-statement thread</a>, is that the fundamentals are unchanged and the stock will move on Monday; several commenters said what matters is whether anything was compromised, not the affair.</li>\n<li><strong>Read next:</strong> <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener noreferrer\">the board's statement</a></li>\n</ul>",
+              "text": "NVIDIA's board has opened an independent investigation after reports that Jensen Huang was the target of a foreign intelligence effort, and Huang has apologised to staff in writing. Both statements were posted to NVIDIA's newsroom on 8 November, days after three House Republican committee chairs asked Huang for a closed-door briefing about his contacts with Megaspeed executive Alice Huang. Why it matters: It is the first time the company itself has treated the reports as a governance matter rather than routine customer contact. A committee of independent directors with outside counsel will run the inquiry, and the board says it \"has no reason to believe\" national security or NVIDIA secrets were compromised. Huang's email to employees apologises for being unfaithful to his wife, says he has fallen short of his responsibility to the company, and says he will cooperate fully. What to watch: the third-quarter results and call on 17 November at 2 p.m. PT; the closed-door briefing the chairs requested for 18 November, with a reply asked for by 11 November; any update from the board, which says it will report further \"as appropriate\". Numbers: none material. The chairs are Brian Mast (Foreign Affairs), John Moolenaar (China Select Committee) and Rick Crawford (Intelligence), as reported. Secondary coverage describes the letter as a request for a voluntary briefing, not a subpoena. Caveats: The underlying espionage reporting is the press's, not NVIDIA's. Singapore's government denied that it had investigated Alice Huang, as quoted in a 10-point r/NVDA_Stock post . No house.gov copy of the letter was found, so its date and terms rest on news coverage. The sub's most upvoted reading, across a 277-point thread and the 105-comment board-statement thread , is that the fundamentals are unchanged and the stock will move on Monday; several commenters said what matters is whether anything was compromised, not the affair. Read next: the board's statement Verified against NVIDIA's board statement and Huang's message to the company · the congressional letter is Reported, via Analytics Insight and RedState",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against NVIDIA's <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener noreferrer\">board statement</a> and <a href=\"https://nvidianews.nvidia.com/news/a-message-to-our-company\" target=\"_blank\" rel=\"noopener noreferrer\">Huang's message to the company</a> · the congressional letter is Reported, via <a href=\"https://www.analyticsinsight.net/news/house-republicans-ask-nvidia-ceo-jensen-huang-for-closed-door-briefing\" target=\"_blank\" rel=\"noopener noreferrer\">Analytics Insight</a> and <a href=\"https://redstate.com/ben-smith/2026/11/05/gop-chairmen-want-answers-from-nvidias-jensen-huang-after-alleged-chinese-spy-plot-n2209092\" target=\"_blank\" rel=\"noopener noreferrer\">RedState</a></p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "nvidianews.nvidia.com",
+                "analyticsinsight.net",
+                "redstate.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Third-quarter fiscal 2027 results come on Tuesday 17 November, with the call at 2 p.m. PT, for the quarter that ended 25 October.</strong>",
+              "html": "<p><strong>Third-quarter fiscal 2027 results come on Tuesday 17 November, with the call at 2 p.m. PT, for the quarter that ended 25 October.</strong> Written CFO commentary is due at about 1:20 p.m. PT. A 0-point post arguing that hyperscaler investors will force lower spending drew <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xonnzu/\" target=\"_blank\" rel=\"noopener noreferrer\">a long point-by-point rebuttal</a> citing hyperscaler backlogs and non-hyperscaler buyers; neither side cited figures.</p>",
+              "text": "Third-quarter fiscal 2027 results come on Tuesday 17 November, with the call at 2 p.m. PT, for the quarter that ended 25 October. Written CFO commentary is due at about 1:20 p.m. PT. A 0-point post arguing that hyperscaler investors will force lower spending drew a long point-by-point rebuttal citing hyperscaler backlogs and non-hyperscaler buyers; neither side cited figures. Verified against NVIDIA's call announcement",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's call announcement</a></p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Products and data center",
+          "category": "products",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>NVIDIA says its Vera CPU gives 1.6× more agents per watt than the fastest x86 CPU and 2× faster agents than the most energy-efficient one.</strong>",
+              "html": "<p><strong>NVIDIA says its Vera CPU gives 1.6× more agents per watt than the fastest x86 CPU and 2× faster agents than the most energy-efficient one.</strong> <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xpigwr/\" target=\"_blank\" rel=\"noopener noreferrer\">The 27-point post</a> titles this as a win over AMD's EPYC Venice. NVIDIA's own <a href=\"https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/\" target=\"_blank\" rel=\"noopener noreferrer\">5 November blog</a> names no rival chip, gives no workload for the two figures, and pairs them the other way round from the title. A commenter replied that there are &quot;No benchmarks for Venice yet&quot;, and another linked <a href=\"https://www.techpowerup.com/352863/amd-claims-epyc-venice-beats-nvidia-vera-by-2-24x-in-new-white-paper\" target=\"_blank\" rel=\"noopener noreferrer\">AMD's white paper claiming the reverse, a 2.24× Venice win</a>. Early adopters such as Perplexity are testing Vera, and the blog gives no shipping date.</p>",
+              "text": "NVIDIA says its Vera CPU gives 1.6× more agents per watt than the fastest x86 CPU and 2× faster agents than the most energy-efficient one. The 27-point post titles this as a win over AMD's EPYC Venice. NVIDIA's own 5 November blog names no rival chip, gives no workload for the two figures, and pairs them the other way round from the title. A commenter replied that there are \"No benchmarks for Venice yet\", and another linked AMD's white paper claiming the reverse, a 2.24× Venice win . Early adopters such as Perplexity are testing Vera, and the blog gives no shipping date. Reported · both are vendor claims, and neither has been reproduced",
+              "status": "reported",
+              "status_html": "<p>Reported · both are vendor claims, and neither has been reproduced</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "blogs.nvidia.com",
+                "techpowerup.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>NVIDIA has pitched Apollo on turning Brightspeed's old telephone buildings into small AI data centres, according to The Information.</strong>",
+              "html": "<p><strong>NVIDIA has pitched Apollo on turning Brightspeed's old telephone buildings into small AI data centres, according to The Information.</strong> Secondary coverage cites more than 130 sites in as many as 20 states with about 1 GW of existing power, a written proposal submitted on 4 November, and requests for site visits. The sub's <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xowh3x/\" target=\"_blank\" rel=\"noopener noreferrer\">72-point thread</a> read it as a way round local data-centre opposition. One commenter pictured NVIDIA owning the sites and leasing them to neoclouds that buy its systems; that is a guess, not reporting. Coverage also says Brightspeed is reportedly near bankruptcy.</p>",
+              "text": "NVIDIA has pitched Apollo on turning Brightspeed's old telephone buildings into small AI data centres, according to The Information. Secondary coverage cites more than 130 sites in as many as 20 states with about 1 GW of existing power, a written proposal submitted on 4 November, and requests for site visits. The sub's 72-point thread read it as a way round local data-centre opposition. One commenter pictured NVIDIA owning the sites and leasing them to neoclouds that buy its systems; that is a guess, not reporting. Coverage also says Brightspeed is reportedly near bankruptcy. Single source · The Information, via AI Weekly and Stocktwits ; not confirmed by NVIDIA",
+              "status": "single-source",
+              "status_html": "<p>Single source · The Information, via <a href=\"https://aiweekly.co/alerts/nvidia-pitches-apollo-on-converting-130-brightspeed-telecom-buildings-into-1gw\" target=\"_blank\" rel=\"noopener noreferrer\">AI Weekly</a> and <a href=\"https://stocktwits.com/news-articles/markets/equity/nvidia-eyes-apollo-s-struggling-telecom-sites-to-sidestep-data-center-moratoriums-report/cNG1vn9R94o\" target=\"_blank\" rel=\"noopener noreferrer\">Stocktwits</a>; not confirmed by NVIDIA</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "aiweekly.co",
+                "stocktwits.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "China and export controls",
+          "category": "china",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>NVIDIA has told cloud partners to sell at least 51% of their services to non-Chinese companies, the Financial Times reported on 3 November.</strong>",
+              "html": "<p><strong>NVIDIA has told cloud partners to sell at least 51% of their services to non-Chinese companies, the Financial Times reported on 3 November.</strong> The FT cites five people; the rule was reportedly passed on verbally by sales teams, applies to customers worldwide, and covers only new contracts. NVIDIA's quoted response did not deny it, saying US policy &quot;encourages every cloud to build on American infrastructure&quot;. In <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xmt4xy/\" target=\"_blank\" rel=\"noopener noreferrer\">the 22-point thread</a>, commenters read it as pre-empting pressure from Washington. It is still not known whether the 51% is measured by revenue, compute or customers.</p>",
+              "text": "NVIDIA has told cloud partners to sell at least 51% of their services to non-Chinese companies, the Financial Times reported on 3 November. The FT cites five people; the rule was reportedly passed on verbally by sales teams, applies to customers worldwide, and covers only new contracts. NVIDIA's quoted response did not deny it, saying US policy \"encourages every cloud to build on American infrastructure\". In the 22-point thread , commenters read it as pre-empting pressure from Washington. It is still not known whether the 51% is measured by revenue, compute or customers. Reported · the FT via The Standard and The Next Web ; Reuters said it could not verify the report",
+              "status": "reported",
+              "status_html": "<p>Reported · the FT via <a href=\"https://www.thestandard.com.hk/innovation/article/347343/Nvidia-orders-data-centre-clients-to-reduce-China-exposure-FT-reports\" target=\"_blank\" rel=\"noopener noreferrer\">The Standard</a> and <a href=\"https://thenextweb.com/news/nvidia-cloud-partners-cap-china-business\" target=\"_blank\" rel=\"noopener noreferrer\">The Next Web</a>; Reuters said it could not verify the report</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "thestandard.com.hk",
+                "thenextweb.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The election-week debate was about data-centre politics, not chips.</strong>",
+              "html": "<p><strong>The election-week debate was about data-centre politics, not chips.</strong> The two biggest threads by comments, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xoq1k7/\" target=\"_blank\" rel=\"noopener noreferrer\">586 comments on a post about a call to ban superintelligence development</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xohqwz/\" target=\"_blank\" rel=\"noopener noreferrer\">298 on &quot;This can't be good...&quot;</a>, split between &quot;they'll build them somewhere else&quot; and commenters, including one who says they hold a large position, who think data centres are unpopular with voters in both parties. The most specific comment expects construction rules such as closed-loop cooling, noise barriers and grid-impact measures rather than a pause.</p>",
+              "text": "The election-week debate was about data-centre politics, not chips. The two biggest threads by comments, 586 comments on a post about a call to ban superintelligence development and 298 on \"This can't be good...\" , split between \"they'll build them somewhere else\" and commenters, including one who says they hold a large position, who think data centres are unpopular with voters in both parties. The most specific comment expects construction rules such as closed-loop cooling, noise barriers and grid-impact measures rather than a pause.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A 416-point meme and a 126-point buyback plea show a sub that is down and asking the company to support the price.",
+              "html": "<p><a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xoo9hx/\" target=\"_blank\" rel=\"noopener noreferrer\">A 416-point meme</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xokcsc/\" target=\"_blank\" rel=\"noopener noreferrer\">a 126-point buyback plea</a> show a sub that is down and asking the company to support the price. A <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xq9pye/\" target=\"_blank\" rel=\"noopener noreferrer\">63-point post</a> relayed <a href=\"https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-dip-nvidia-134339870.html\" target=\"_blank\" rel=\"noopener noreferrer\">Yahoo Finance's report</a> that ARK bought $45.9 million of NVDA while selling $119.7 million of Broadcom.</p>",
+              "text": "A 416-point meme and a 126-point buyback plea show a sub that is down and asking the company to support the price. A 63-point post relayed Yahoo Finance's report that ARK bought $45.9 million of NVDA while selling $119.7 million of Broadcom. Single source · ARK figures as reported by Yahoo Finance; ARK's own trade notices were not read",
+              "status": "single-source",
+              "status_html": "<p>Single source · ARK figures as reported by Yahoo Finance; ARK's own trade notices were not read</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "Yahoo Finance"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The &quot;$235,000,000,000 buyback you promised us&quot; in a 126-point post does not match NVIDIA's filings.</strong>",
+              "html": "<p><strong>The &quot;$235,000,000,000 buyback you promised us&quot; in a 126-point post does not match NVIDIA's filings.</strong> The latest 10-Q, for the quarter ending 26 July 2026, says NVIDIA was authorised to repurchase up to $99.3 billion, after the board added $80.0 billion on 18 May. No commenter sourced the $235 billion figure, and one attributed a larger &quot;half a trillion&quot; idea to Jim Cramer.</p>",
+              "text": "The \"$235,000,000,000 buyback you promised us\" in a 126-point post does not match NVIDIA's filings. The latest 10-Q, for the quarter ending 26 July 2026, says NVIDIA was authorised to repurchase up to $99.3 billion, after the board added $80.0 billion on 18 May. No commenter sourced the $235 billion figure, and one attributed a larger \"half a trillion\" idea to Jim Cramer. Unconfirmed · checked against the July 2026 10-Q ; a later authorisation would show up with the 17 November results",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · checked against <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the July 2026 10-Q</a>; a later authorisation would show up with the 17 November results</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Even A100s are increasing in price&quot; (<a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xmf6kv/\" target=\"_blank\" rel=\"noopener noreferrer\">34 points</a>) is a link post with no source in the thread; the top reply asks &quot;Source?&quot; and goes unanswered.</strong>",
+              "html": "<p><strong>&quot;Even A100s are increasing in price&quot; (<a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xmf6kv/\" target=\"_blank\" rel=\"noopener noreferrer\">34 points</a>) is a link post with no source in the thread; the top reply asks &quot;Source?&quot; and goes unanswered.</strong></p>",
+              "text": "\"Even A100s are increasing in price\" ( 34 points ) is a link post with no source in the thread; the top reply asks \"Source?\" and goes unanswered. Unconfirmed · no pricing source looked up",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · no pricing source looked up</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> NVDA_Stock (25 hot posts, 13 threads read in full).",
+              "html": "<p><strong>Read:</strong> NVDA_Stock (25 hot posts, 13 threads read in full). <strong>Sources checked:</strong> NVIDIA SEC filings (one Form 4 on 6 November, no 8-K since 3 September), NVIDIA Newsroom. NVIDIA investor relations redirects to the Newsroom and its own homepage listed no events, so the earnings date came from the Newsroom announcement found by WebSearch.</p>",
+              "text": "Read: NVDA_Stock (25 hot posts, 13 threads read in full). Sources checked: NVIDIA SEC filings (one Form 4 on 6 November, no 8-K since 3 September), NVIDIA Newsroom. NVIDIA investor relations redirects to the Newsroom and its own homepage listed no events, so the earnings date came from the Newsroom announcement found by WebSearch.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none material.",
+              "html": "<p><strong>Announced, not discussed:</strong> none material. Newsroom blog posts from 30 October to 6 November on 6G research tools, memory codesign, city AI services, fab engineering and DLSS 5 on GeForce NOW were not raised on the sub.</p>",
+              "text": "Announced, not discussed: none material. Newsroom blog posts from 30 October to 6 November on 6G research tools, memory codesign, city AI services, fab engineering and DLSS 5 on GeForce NOW were not raised on the sub. Verified against the NVIDIA Newsroom",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news\" target=\"_blank\" rel=\"noopener noreferrer\">the NVIDIA Newsroom</a></p>",
+              "updated": null,
+              "sources": [
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;nvidia&quot;, &quot;jensen&quot; and &quot;chinese&quot; are the company, its CEO and the espionage story, all covered above.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;nvidia&quot;, &quot;jensen&quot; and &quot;chinese&quot; are the company, its CEO and the espionage story, all covered above. This is the first run, so every term was new.</p>",
+              "text": "Flagged terms set aside: \"nvidia\", \"jensen\" and \"chinese\" are the company, its CEO and the espionage story, all covered above. This is the first run, so every term was new.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "theme": "Governance and legal",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang.</strong>",
+          "html": "<p><strong>Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang.</strong> The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. As of 8 November there were no reports on whether Huang would attend.</p>",
+          "text": "Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang. The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. As of 8 November there were no reports on whether Huang would attend. Reported · Analytics Insight and RedState ; no house.gov copy found · 2026-11-08",
+          "status": "reported",
+          "status_html": "<p>Reported · <a href=\"https://www.analyticsinsight.net/news/house-republicans-ask-nvidia-ceo-jensen-huang-for-closed-door-briefing\" target=\"_blank\" rel=\"noopener noreferrer\">Analytics Insight</a> and <a href=\"https://redstate.com/ben-smith/2026/11/05/gop-chairmen-want-answers-from-nvidias-jensen-huang-after-alleged-chinese-spy-plot-n2209092\" target=\"_blank\" rel=\"noopener noreferrer\">RedState</a>; no house.gov copy found · 2026-11-08</p>",
+          "updated": "2026-11-08",
+          "sources": [
+            "analyticsinsight.net",
+            "redstate.com"
+          ],
+          "due": "2026-11-18",
+          "due_label": "requested briefing date"
+        },
+        {
+          "headline": "<strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong>",
+          "html": "<p><strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong> A committee of independent directors with outside counsel oversees it. The board says it has &quot;no reason to believe&quot; national security or company secrets were compromised and will give updates &quot;as appropriate&quot;. Watch for an update, and whether the 17 November call addresses it.</p>",
+          "text": "The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026. A committee of independent directors with outside counsel oversees it. The board says it has \"no reason to believe\" national security or company secrets were compromised and will give updates \"as appropriate\". Watch for an update, and whether the 17 November call addresses it. Verified against the board's statement · 2026-11-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener noreferrer\">the board's statement</a> · 2026-11-08</p>",
+          "updated": "2026-11-08",
+          "sources": [
+            "nvidianews.nvidia.com"
+          ],
+          "due": null,
+          "due_label": null
+        }
+      ]
+    },
+    {
+      "theme": "Earnings and guidance",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT.</strong>",
+          "html": "<p><strong>Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT.</strong> The quarter ended 25 October 2026.</p>",
+          "text": "Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT. The quarter ended 25 October 2026. Verified against NVIDIA's announcement · 2026-11-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's announcement</a> · 2026-11-08</p>",
+          "updated": "2026-11-08",
+          "sources": [
+            "nvidianews.nvidia.com"
+          ],
+          "due": "2026-11-17",
+          "due_label": "results and call"
+        }
+      ]
+    },
+    {
+      "theme": "Products and roadmap",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Vera CPU: NVIDIA claims 1.6× more agents per watt than the fastest x86 CPU and 2× faster agents than the most energy-efficient one; AMD claims EPYC Venice beats Vera by 2.24×.</strong>",
+          "html": "<p><strong>Vera CPU: NVIDIA claims 1.6× more agents per watt than the fastest x86 CPU and 2× faster agents than the most energy-efficient one; AMD claims EPYC Venice beats Vera by 2.24×.</strong> Both are vendor claims with no independent benchmark yet. NVIDIA's blog gives no shipping date; early adopters including Perplexity are testing it.</p>",
+          "text": "Vera CPU: NVIDIA claims 1.6× more agents per watt than the fastest x86 CPU and 2× faster agents than the most energy-efficient one; AMD claims EPYC Venice beats Vera by 2.24×. Both are vendor claims with no independent benchmark yet. NVIDIA's blog gives no shipping date; early adopters including Perplexity are testing it. Reported · NVIDIA's blog and TechPowerUp on AMD's white paper · 2026-11-08",
+          "status": "reported",
+          "status_html": "<p>Reported · <a href=\"https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's blog</a> and <a href=\"https://www.techpowerup.com/352863/amd-claims-epyc-venice-beats-nvidia-vera-by-2-24x-in-new-white-paper\" target=\"_blank\" rel=\"noopener noreferrer\">TechPowerUp on AMD's white paper</a> · 2026-11-08</p>",
+          "updated": "2026-11-08",
+          "sources": [
+            "blogs.nvidia.com",
+            "techpowerup.com"
+          ],
+          "due": null,
+          "due_label": null
+        }
+      ]
+    },
+    {
+      "theme": "Deals and customers",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>NVIDIA has proposed converting Apollo-backed Brightspeed telephone buildings into small AI data centres: more than 130 sites, roughly 1 GW of power, as many as 20 states.</strong>",
+          "html": "<p><strong>NVIDIA has proposed converting Apollo-backed Brightspeed telephone buildings into small AI data centres: more than 130 sites, roughly 1 GW of power, as many as 20 states.</strong> These are talks reported by The Information, with a written proposal said to have gone in on 4 November. Brightspeed is reportedly near bankruptcy. Watch for confirmation from either company.</p>",
+          "text": "NVIDIA has proposed converting Apollo-backed Brightspeed telephone buildings into small AI data centres: more than 130 sites, roughly 1 GW of power, as many as 20 states. These are talks reported by The Information, with a written proposal said to have gone in on 4 November. Brightspeed is reportedly near bankruptcy. Watch for confirmation from either company. Single source · The Information, via AI Weekly · 2026-11-08",
+          "status": "single-source",
+          "status_html": "<p>Single source · The Information, via <a href=\"https://aiweekly.co/alerts/nvidia-pitches-apollo-on-converting-130-brightspeed-telecom-buildings-into-1gw\" target=\"_blank\" rel=\"noopener noreferrer\">AI Weekly</a> · 2026-11-08</p>",
+          "updated": "2026-11-08",
+          "sources": [
+            "aiweekly.co"
+          ],
+          "due": null,
+          "due_label": null
+        }
+      ]
+    },
+    {
+      "theme": "China and export controls",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>NVIDIA reportedly requires cloud partners to sell at least 51% of their services to non-Chinese companies, on new contracts only, worldwide.</strong>",
+          "html": "<p><strong>NVIDIA reportedly requires cloud partners to sell at least 51% of their services to non-Chinese companies, on new contracts only, worldwide.</strong> The rule was reportedly passed on verbally, starting in the summer. Not yet known: what the 51% is measured by, and how it is checked.</p>",
+          "text": "NVIDIA reportedly requires cloud partners to sell at least 51% of their services to non-Chinese companies, on new contracts only, worldwide. The rule was reportedly passed on verbally, starting in the summer. Not yet known: what the 51% is measured by, and how it is checked. Reported · the Financial Times via The Standard ; Reuters could not verify it · 2026-11-08",
+          "status": "reported",
+          "status_html": "<p>Reported · the Financial Times via <a href=\"https://www.thestandard.com.hk/innovation/article/347343/Nvidia-orders-data-centre-clients-to-reduce-China-exposure-FT-reports\" target=\"_blank\" rel=\"noopener noreferrer\">The Standard</a>; Reuters could not verify it · 2026-11-08</p>",
+          "updated": "2026-11-08",
+          "sources": [
+            "thestandard.com.hk"
+          ],
+          "due": null,
+          "due_label": null
+        }
+      ]
+    },
+    {
+      "theme": "Recurring community claims",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>&quot;The $235 billion buyback.&quot;</strong>",
+          "html": "<p><strong>&quot;The $235 billion buyback.&quot;</strong> The sub cites a $235 billion buyback that NVIDIA's filings don't show. The July 2026 10-Q gives $99.3 billion of authorisation, after an $80.0 billion top-up on 18 May 2026. Check again against the 17 November results.</p>",
+          "text": "\"The $235 billion buyback.\" The sub cites a $235 billion buyback that NVIDIA's filings don't show. The July 2026 10-Q gives $99.3 billion of authorisation, after an $80.0 billion top-up on 18 May 2026. Check again against the 17 November results. Unconfirmed · July 2026 10-Q · 2026-11-08",
+          "status": "unconfirmed",
+          "status_html": "<p><strong>Unconfirmed</strong> · <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm\" target=\"_blank\" rel=\"noopener noreferrer\">July 2026 10-Q</a> · 2026-11-08</p>",
+          "updated": "2026-11-08",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        }
+      ]
+    }
+  ]
+}
