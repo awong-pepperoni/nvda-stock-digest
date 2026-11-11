@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NVDA Stock Digest</title>
+  <subtitle>What r/NVDA_Stock said, run by run</subtitle>
+  <link href="https://awong-pepperoni.github.io/nvda-stock-digest/"/>
+  <link rel="self" href="https://awong-pepperoni.github.io/nvda-stock-digest/feed.xml"/>
+  <id>https://awong-pepperoni.github.io/nvda-stock-digest/</id>
+  <updated>2026-11-11T00:00:00Z</updated>
+  <author><name>awong-pepperoni</name></author>
+  <entry>
+    <title>NVDA stock digest, 2026-11-11</title>
+    <link href="https://awong-pepperoni.github.io/nvda-stock-digest/"/>
+    <id>tag:awong-pepperoni.github.io,2026:nvda_stock/2026-11-11</id>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <content type="html">&lt;p&gt;The sub is still almost entirely about the Jensen Huang story, now three days on. What changed: the independent directors named their outside counsel on 10 November, The Information reported that Alice Huang's network moved at least $7.5 billion of NVIDIA chips into China, and President Trump publicly backed Huang. Most of the hot list is reaction to the falling price, split between &amp;quot;a huge sale&amp;quot; and worry that Huang could be forced out.&lt;/p&gt;&lt;p&gt;&lt;a href="https://awong-pepperoni.github.io/nvda-stock-digest/"&gt;Read the full run&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NVDA stock digest, 2026-11-08</title>
+    <link href="https://awong-pepperoni.github.io/nvda-stock-digest/"/>
+    <id>tag:awong-pepperoni.github.io,2026:nvda_stock/2026-11-08</id>
+    <updated>2026-11-08T00:00:00Z</updated>
+    <content type="html">&lt;p&gt;The first run of this feed. Two things dominated the sub. One was the Jensen Huang story, which went from press reports and a congressional letter earlier in the week to a board investigation and a personal apology from Huang on 8 November. The other was a week-long argument about whether the election-day backlash against data centres slows NVIDIA's growth. Earnings are on 17 November, the day before the briefing the House chairs asked Huang to attend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://awong-pepperoni.github.io/nvda-stock-digest/"&gt;Read the full run&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

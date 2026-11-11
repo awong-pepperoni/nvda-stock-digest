@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08",
+  "generated": "2026-11-11",
   "meta": {
     "feed": "nvda_stock",
     "title": "NVDA Stock Digest",
@@ -22,6 +22,218 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-11",
+      "title": "NVDA stock digest",
+      "intro_html": "<p>The sub is still almost entirely about the Jensen Huang story, now three days on. What changed: the independent directors named their outside counsel on 10 November, The Information reported that Alice Huang's network moved at least $7.5 billion of NVIDIA chips into China, and President Trump publicly backed Huang. Most of the hot list is reaction to the falling price, split between &quot;a huge sale&quot; and worry that Huang could be forced out.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>NVIDIA's independent directors have hired Joon H. Kim, a former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen &amp; Katz to run the investigation into Huang.</strong>",
+              "html": "<p><strong>NVIDIA's independent directors have hired Joon H. Kim, a former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen &amp; Katz to run the investigation into Huang.</strong> The one-sentence statement was posted to NVIDIA's newsroom on 10 November, two days after the board announced the inquiry.</p>\n<ul>\n<li><strong>Why it matters:</strong> It shows how far the board will go: an outside former prosecutor, not just a committee of directors. In <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xsxoca/\" target=\"_blank\" rel=\"noopener noreferrer\">the 31-comment thread</a>, commenters read it two ways. Some called it &quot;performative&quot; risk management. Others compared it with Tesla's 2018 SEC settlement, where Musk stayed as CEO but gave up the chair.</li>\n<li><strong>What to watch:</strong> the third-quarter results and call on 17 November at 2 p.m. PT; the closed-door briefing the House chairs requested for 18 November, whose reply deadline was 11 November; any further board update.</li>\n<li><strong>Numbers:</strong> none. The statement names no committee members and gives no timetable.</li>\n<li><strong>Caveats:</strong> The statement does not mention Megaspeed, export controls or Huang's role. The sub's most detailed comment, in <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xs3tg7/\" target=\"_blank\" rel=\"noopener noreferrer\">the 439-comment &quot;huge sale&quot; thread</a>, comes from someone who says they are an analyst. They list seven CEOs who left after extramarital relationships, from Hurd at HP to Buchanan at Kohl's. They argue that removal becomes likely only if the inquiry finds favourable terms for Megaspeed or knowing help in evading export rules, and call that &quot;a low, but non-zero chance&quot;. That is one commenter's reading, not a finding.</li>\n<li><strong>Read next:</strong> <a href=\"https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board\" target=\"_blank\" rel=\"noopener noreferrer\">the independent directors' statement</a></li>\n</ul>",
+              "text": "NVIDIA's independent directors have hired Joon H. Kim, a former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen & Katz to run the investigation into Huang. The one-sentence statement was posted to NVIDIA's newsroom on 10 November, two days after the board announced the inquiry. Why it matters: It shows how far the board will go: an outside former prosecutor, not just a committee of directors. In the 31-comment thread , commenters read it two ways. Some called it \"performative\" risk management. Others compared it with Tesla's 2018 SEC settlement, where Musk stayed as CEO but gave up the chair. What to watch: the third-quarter results and call on 17 November at 2 p.m. PT; the closed-door briefing the House chairs requested for 18 November, whose reply deadline was 11 November; any further board update. Numbers: none. The statement names no committee members and gives no timetable. Caveats: The statement does not mention Megaspeed, export controls or Huang's role. The sub's most detailed comment, in the 439-comment \"huge sale\" thread , comes from someone who says they are an analyst. They list seven CEOs who left after extramarital relationships, from Hurd at HP to Buchanan at Kohl's. They argue that removal becomes likely only if the inquiry finds favourable terms for Megaspeed or knowing help in evading export rules, and call that \"a low, but non-zero chance\". That is one commenter's reading, not a finding. Read next: the independent directors' statement Verified against NVIDIA's newsroom · 2026-11-10",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's newsroom</a> · 2026-11-10</p>",
+              "updated": "2026-11-10",
+              "sources": [
+                "r/NVDA_Stock",
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "China and export controls",
+          "category": "china",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Information reports that Alice Huang's network used her ties to NVIDIA to move at least $7.5 billion of NVIDIA chips to Chinese firms.</strong>",
+              "html": "<p><strong>The Information reports that Alice Huang's network used her ties to NVIDIA to move at least $7.5 billion of NVIDIA chips to Chinese firms.</strong> As relayed by Reuters, the report cites two people who know her and corporate records. It says the network centred on Shanghai Century Litong, founded in June 2023, which became an NVIDIA &quot;preferred cloud partner&quot; by that October, and moved about 240,000 H100, H200 and some A100 chips. Reuters said NVIDIA did not immediately respond. On the sub, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xsqqgx/\" target=\"_blank\" rel=\"noopener noreferrer\">the 23-point post</a> drew mostly &quot;overblown&quot; replies. In the 10 November daily thread, one commenter set $7.5 billion over three years against roughly $220 billion of annual revenue, a figure they did not source.</p>",
+              "text": "The Information reports that Alice Huang's network used her ties to NVIDIA to move at least $7.5 billion of NVIDIA chips to Chinese firms. As relayed by Reuters, the report cites two people who know her and corporate records. It says the network centred on Shanghai Century Litong, founded in June 2023, which became an NVIDIA \"preferred cloud partner\" by that October, and moved about 240,000 H100, H200 and some A100 chips. Reuters said NVIDIA did not immediately respond. On the sub, the 23-point post drew mostly \"overblown\" replies. In the 10 November daily thread, one commenter set $7.5 billion over three years against roughly $220 billion of annual revenue, a figure they did not source. Reported · The Information via Reuters on Investing.com ; not confirmed by NVIDIA",
+              "status": "reported",
+              "status_html": "<p>Reported · The Information via <a href=\"https://www.investing.com/news/stock-market-news/nvidia-ceos-affair-with-alleged-spy-aided-75-billion-in-china-chip-shipments-information-reports-5014827\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters on Investing.com</a>; not confirmed by NVIDIA</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "Investing.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Taiwanese analyst's thread, posted as <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xrh3fe/\" target=\"_blank\" rel=\"noopener noreferrer\">a 31-point link</a>, argues that Washington is using the scandal to tighten China chip policy.</strong>",
+              "html": "<p><strong>A Taiwanese analyst's thread, posted as <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xrh3fe/\" target=\"_blank\" rel=\"noopener noreferrer\">a 31-point link</a>, argues that Washington is using the scandal to tighten China chip policy.</strong> Andrew Lu, quoted on X by the account Jukan, names three aims: discredit Huang's lobbying against export bans; revoke H200 approvals for China; and put NVIDIA under congressional oversight. The thread ties this to a New York Times investigation, which secondary coverage confirms. It found that two Chinese firms the Commerce Department cleared to buy H200s, New Matrix and Maginfra, had empty offices and ownership links to blacklisted entities. Commenters' replies were mostly timing theories, such as the government having &quot;sat on this for a year&quot;. <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xsazze/\" target=\"_blank\" rel=\"noopener noreferrer\">A paywalled link post</a> titled &quot;New Push For Export Controls in Wake of Spy Scandal&quot; had no text, and no new bill or rule was found.</p>",
+              "text": "A Taiwanese analyst's thread, posted as a 31-point link , argues that Washington is using the scandal to tighten China chip policy. Andrew Lu, quoted on X by the account Jukan, names three aims: discredit Huang's lobbying against export bans; revoke H200 approvals for China; and put NVIDIA under congressional oversight. The thread ties this to a New York Times investigation, which secondary coverage confirms. It found that two Chinese firms the Commerce Department cleared to buy H200s, New Matrix and Maginfra, had empty offices and ownership links to blacklisted entities. Commenters' replies were mostly timing theories, such as the government having \"sat on this for a year\". A paywalled link post titled \"New Push For Export Controls in Wake of Spy Scandal\" had no text, and no new bill or rule was found. Reported · the NYT findings via AI Weekly ; Lu's three aims are his opinion",
+              "status": "reported",
+              "status_html": "<p>Reported · the NYT findings via <a href=\"https://aiweekly.co/alerts/nyt-us-cleared-nvidia-h200-firms-in-china-have-empty-offices\" target=\"_blank\" rel=\"noopener noreferrer\">AI Weekly</a>; Lu's three aims are his opinion</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "aiweekly.co"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>President Trump called Huang &quot;honorable&quot; and said he thinks Huang &quot;will be in good shape&quot;, but said he had not raised the allegations with him.</strong>",
+              "html": "<p><strong>President Trump called Huang &quot;honorable&quot; and said he thinks Huang &quot;will be in good shape&quot;, but said he had not raised the allegations with him.</strong> He also said the FBI was looking at the matter &quot;in terms of something else&quot;. Coverage notes that this does not establish an FBI investigation of Huang himself. The sub's posts on it, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xs5ruf/\" target=\"_blank\" rel=\"noopener noreferrer\">58 points</a>, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xrddnv/\" target=\"_blank\" rel=\"noopener noreferrer\">194 points</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xri4i3/\" target=\"_blank\" rel=\"noopener noreferrer\">16 points</a>, split between relief and timing theories about why the story surfaced now.</p>",
+              "text": "President Trump called Huang \"honorable\" and said he thinks Huang \"will be in good shape\", but said he had not raised the allegations with him. He also said the FBI was looking at the matter \"in terms of something else\". Coverage notes that this does not establish an FBI investigation of Huang himself. The sub's posts on it, 58 points , 194 points and 16 points , split between relief and timing theories about why the story surfaced now. Reported · Political Wire and IBTimes",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://politicalwire.com/2026/11/09/trump-backs-nvidia-ceo-amid-fbi-probe/\" target=\"_blank\" rel=\"noopener noreferrer\">Political Wire</a> and <a href=\"https://www.ibtimes.co.uk/trump-defends-nvidia-ceo-jensen-huang-investigation-1831155\" target=\"_blank\" rel=\"noopener noreferrer\">IBTimes</a></p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "politicalwire.com",
+                "ibtimes.co.uk"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Nvidia hasn't been this cheap since late 2018 / early 2019&quot;, says <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xrqct9/\" target=\"_blank\" rel=\"noopener noreferrer\">a 31-point post</a>, on trailing and forward P/E with the stock at $175 premarket.</strong>",
+              "html": "<p><strong>&quot;Nvidia hasn't been this cheap since late 2018 / early 2019&quot;, says <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xrqct9/\" target=\"_blank\" rel=\"noopener noreferrer\">a 31-point post</a>, on trailing and forward P/E with the stock at $175 premarket.</strong> The post gives no P/E figures. The top reply says the same &quot;buy&quot; posts have appeared &quot;all the way from 240 down to 175&quot;. Reuters reports the shares closed down more than 4% on Monday 9 November. Other posts this run quote $168 to $173, figures as posted.</p>",
+              "text": "\"Nvidia hasn't been this cheap since late 2018 / early 2019\", says a 31-point post , on trailing and forward P/E with the stock at $175 premarket. The post gives no P/E figures. The top reply says the same \"buy\" posts have appeared \"all the way from 240 down to 175\". Reuters reports the shares closed down more than 4% on Monday 9 November. Other posts this run quote $168 to $173, figures as posted. Single source · prices as posted; the Monday close as reported by Reuters",
+              "status": "single-source",
+              "status_html": "<p>Single source · prices as posted; the Monday close as reported by Reuters</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The biggest threads, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xs3tg7/\" target=\"_blank\" rel=\"noopener noreferrer\">439 comments on &quot;huge sale&quot;</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xsvhme/\" target=\"_blank\" rel=\"noopener noreferrer\">162 on &quot;My take on Jensen&quot;</a>, are about whether Huang survives, not about the business.</strong>",
+              "html": "<p><strong>The biggest threads, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xs3tg7/\" target=\"_blank\" rel=\"noopener noreferrer\">439 comments on &quot;huge sale&quot;</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xsvhme/\" target=\"_blank\" rel=\"noopener noreferrer\">162 on &quot;My take on Jensen&quot;</a>, are about whether Huang survives, not about the business.</strong> The &quot;My take&quot; post calls the spy story &quot;idiotic&quot;. Its most pointed replies call that &quot;cope&quot;, and one notes that knowingly helping smuggle chips would be a federal crime. Several commenters treat Huang as irreplaceable, citing his relationship with TSMC. <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xt75vg/\" target=\"_blank\" rel=\"noopener noreferrer\">An 8-point post</a> shares a homemade model of the odds of Huang's removal; its replies mostly put them near zero.</p>",
+              "text": "The biggest threads, 439 comments on \"huge sale\" and 162 on \"My take on Jensen\" , are about whether Huang survives, not about the business. The \"My take\" post calls the spy story \"idiotic\". Its most pointed replies call that \"cope\", and one notes that knowingly helping smuggle chips would be a federal crime. Several commenters treat Huang as irreplaceable, citing his relationship with TSMC. An 8-point post shares a homemade model of the odds of Huang's removal; its replies mostly put them near zero.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;I'm hearing that shareholder lawsuits were filed,&quot; says a daily-thread comment on 10 November, with no link.</strong>",
+              "html": "<p><strong>&quot;I'm hearing that shareholder lawsuits were filed,&quot; says a daily-thread comment on 10 November, with no link.</strong> A search found only two earlier cases, an August 2026 derivative suit over AI training data and the older crypto-revenue class action, and nothing filed in November.</p>",
+              "text": "\"I'm hearing that shareholder lawsuits were filed,\" says a daily-thread comment on 10 November, with no link. A search found only two earlier cases, an August 2026 derivative suit over AI training data and the older crypto-revenue class action, and nothing filed in November. Unconfirmed · WebSearch for November 2026 filings; no court records checked",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · WebSearch for November 2026 filings; no court records checked</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The &quot;$235 billion&quot; buyback is back.</strong>",
+              "html": "<p><strong>The &quot;$235 billion&quot; buyback is back.</strong> The same commenter says NVIDIA &quot;has 235 billion dollars&quot; for buybacks. As in the last run, NVIDIA's filings show $99.3 billion of authorisation; see the tracker.</p>",
+              "text": "The \"$235 billion\" buyback is back. The same commenter says NVIDIA \"has 235 billion dollars\" for buybacks. As in the last run, NVIDIA's filings show $99.3 billion of authorisation; see the tracker. Unconfirmed · July 2026 10-Q",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm\" target=\"_blank\" rel=\"noopener noreferrer\">July 2026 10-Q</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> NVDA_Stock (23 hot posts, 12 threads read in full, including the 10 November daily thread).",
+              "html": "<p><strong>Read:</strong> NVDA_Stock (23 hot posts, 12 threads read in full, including the 10 November daily thread). <strong>Sources checked:</strong> NVIDIA SEC filings (no filings since the 6 November Form 4), NVIDIA Newsroom. NVIDIA investor events was not fetched this run; the results date comes from the Newsroom announcement already in the tracker.</p>",
+              "text": "Read: NVDA_Stock (23 hot posts, 12 threads read in full, including the 10 November daily thread). Sources checked: NVIDIA SEC filings (no filings since the 6 November Form 4), NVIDIA Newsroom. NVIDIA investor events was not fetched this run; the results date comes from the Newsroom announcement already in the tracker.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> NVIDIA, Rebellions and SK Telecom&#x27;s NVLink Fusion collaboration and four Korea blog posts (8 November); planned investments in Korean sta…",
+              "html": "<p><strong>Announced, not discussed:</strong> <a href=\"https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA, Rebellions and SK Telecom's NVLink Fusion collaboration</a> and four Korea blog posts (8 November); <a href=\"https://blogs.nvidia.com/blog/korean-startup-investments-msit/\" target=\"_blank\" rel=\"noopener noreferrer\">planned investments in Korean startups</a> and <a href=\"https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/\" target=\"_blank\" rel=\"noopener noreferrer\">a CoRL robotics simulation post</a> (9 November); <a href=\"https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/\" target=\"_blank\" rel=\"noopener noreferrer\">the OpenShell open-source donation</a> and <a href=\"https://blogs.nvidia.com/blog/ai-recycling-startups/\" target=\"_blank\" rel=\"noopener noreferrer\">an AI recycling post</a> (10 November).</p>",
+              "text": "Announced, not discussed: NVIDIA, Rebellions and SK Telecom's NVLink Fusion collaboration and four Korea blog posts (8 November); planned investments in Korean startups and a CoRL robotics simulation post (9 November); the OpenShell open-source donation and an AI recycling post (10 November). Verified against the NVIDIA Newsroom",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news\" target=\"_blank\" rel=\"noopener noreferrer\">the NVIDIA Newsroom</a></p>",
+              "updated": null,
+              "sources": [
+                "nvidianews.nvidia.com",
+                "blogs.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Skipped as repeats of the last run: the board-statement thread and &quot;Jensen fucked up hard&quot;.",
+              "html": "<p>Skipped as repeats of the last run: <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xr8ivn/\" target=\"_blank\" rel=\"noopener noreferrer\">the board-statement thread</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xr943m/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Jensen fucked up hard&quot;</a>. Skipped as memes or personal positions: &quot;aged like wine&quot;, &quot;Jensen said it wasn't him&quot;, &quot;Sunday night sale&quot; and a post about buying on a loan.</p>",
+              "text": "Skipped as repeats of the last run: the board-statement thread and \"Jensen fucked up hard\" . Skipped as memes or personal positions: \"aged like wine\", \"Jensen said it wasn't him\", \"Sunday night sale\" and a post about buying on a loan.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "title": "NVDA stock digest",
@@ -250,11 +462,11 @@
       "items": [
         {
           "headline": "<strong>Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang.</strong>",
-          "html": "<p><strong>Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang.</strong> The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. As of 8 November there were no reports on whether Huang would attend.</p>",
-          "text": "Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang. The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. As of 8 November there were no reports on whether Huang would attend. Reported · Analytics Insight and RedState ; no house.gov copy found · 2026-11-08",
+          "html": "<p><strong>Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang.</strong> The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. As of 11 November no reports were found on whether Huang will attend.</p>",
+          "text": "Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang. The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. As of 11 November no reports were found on whether Huang will attend. Reported · Analytics Insight and RedState ; no house.gov copy found · 2026-11-11",
           "status": "reported",
-          "status_html": "<p>Reported · <a href=\"https://www.analyticsinsight.net/news/house-republicans-ask-nvidia-ceo-jensen-huang-for-closed-door-briefing\" target=\"_blank\" rel=\"noopener noreferrer\">Analytics Insight</a> and <a href=\"https://redstate.com/ben-smith/2026/11/05/gop-chairmen-want-answers-from-nvidias-jensen-huang-after-alleged-chinese-spy-plot-n2209092\" target=\"_blank\" rel=\"noopener noreferrer\">RedState</a>; no house.gov copy found · 2026-11-08</p>",
-          "updated": "2026-11-08",
+          "status_html": "<p>Reported · <a href=\"https://www.analyticsinsight.net/news/house-republicans-ask-nvidia-ceo-jensen-huang-for-closed-door-briefing\" target=\"_blank\" rel=\"noopener noreferrer\">Analytics Insight</a> and <a href=\"https://redstate.com/ben-smith/2026/11/05/gop-chairmen-want-answers-from-nvidias-jensen-huang-after-alleged-chinese-spy-plot-n2209092\" target=\"_blank\" rel=\"noopener noreferrer\">RedState</a>; no house.gov copy found · 2026-11-11</p>",
+          "updated": "2026-11-11",
           "sources": [
             "analyticsinsight.net",
             "redstate.com"
@@ -264,11 +476,11 @@
         },
         {
           "headline": "<strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong>",
-          "html": "<p><strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong> A committee of independent directors with outside counsel oversees it. The board says it has &quot;no reason to believe&quot; national security or company secrets were compromised and will give updates &quot;as appropriate&quot;. Watch for an update, and whether the 17 November call addresses it.</p>",
-          "text": "The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026. A committee of independent directors with outside counsel oversees it. The board says it has \"no reason to believe\" national security or company secrets were compromised and will give updates \"as appropriate\". Watch for an update, and whether the 17 November call addresses it. Verified against the board's statement · 2026-11-08",
+          "html": "<p><strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong> A committee of independent directors with outside counsel oversees it. The board says it has &quot;no reason to believe&quot; national security or company secrets were compromised and will give updates &quot;as appropriate&quot;. On 10 November the independent directors named Joon H. Kim, former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen &amp; Katz to run it. No timetable or committee members have been given. Watch for an update, and whether the 17 November call addresses it.</p>",
+          "text": "The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026. A committee of independent directors with outside counsel oversees it. The board says it has \"no reason to believe\" national security or company secrets were compromised and will give updates \"as appropriate\". On 10 November the independent directors named Joon H. Kim, former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen & Katz to run it. No timetable or committee members have been given. Watch for an update, and whether the 17 November call addresses it. Verified against the board's statement and the independent directors' statement · 2026-11-11",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener noreferrer\">the board's statement</a> · 2026-11-08</p>",
-          "updated": "2026-11-08",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener noreferrer\">the board's statement</a> and <a href=\"https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board\" target=\"_blank\" rel=\"noopener noreferrer\">the independent directors' statement</a> · 2026-11-11</p>",
+          "updated": "2026-11-11",
           "sources": [
             "nvidianews.nvidia.com"
           ],
@@ -355,6 +567,19 @@
           ],
           "due": null,
           "due_label": null
+        },
+        {
+          "headline": "<strong>The Information reports that Alice Huang's network moved at least $7.5 billion of NVIDIA chips, about 240,000 H100, H200 and some A100 units, to Chinese firms, through Shanghai Century Litong, which became an NVIDIA &quot;preferred cloud partner&quot; in 2023.</strong>",
+          "html": "<p><strong>The Information reports that Alice Huang's network moved at least $7.5 billion of NVIDIA chips, about 240,000 H100, H200 and some A100 units, to Chinese firms, through Shanghai Century Litong, which became an NVIDIA &quot;preferred cloud partner&quot; in 2023.</strong> The report cites two people who know her and corporate records. NVIDIA had not responded as of Reuters' 10 November report. Watch for an NVIDIA response, and whether the board inquiry or the 18 November briefing addresses it.</p>",
+          "text": "The Information reports that Alice Huang's network moved at least $7.5 billion of NVIDIA chips, about 240,000 H100, H200 and some A100 units, to Chinese firms, through Shanghai Century Litong, which became an NVIDIA \"preferred cloud partner\" in 2023. The report cites two people who know her and corporate records. NVIDIA had not responded as of Reuters' 10 November report. Watch for an NVIDIA response, and whether the board inquiry or the 18 November briefing addresses it. Reported · The Information via Reuters on Investing.com · 2026-11-11",
+          "status": "reported",
+          "status_html": "<p>Reported · The Information via <a href=\"https://www.investing.com/news/stock-market-news/nvidia-ceos-affair-with-alleged-spy-aided-75-billion-in-china-chip-shipments-information-reports-5014827\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters on Investing.com</a> · 2026-11-11</p>",
+          "updated": "2026-11-11",
+          "sources": [
+            "Investing.com"
+          ],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -365,11 +590,11 @@
       "items": [
         {
           "headline": "<strong>&quot;The $235 billion buyback.&quot;</strong>",
-          "html": "<p><strong>&quot;The $235 billion buyback.&quot;</strong> The sub cites a $235 billion buyback that NVIDIA's filings don't show. The July 2026 10-Q gives $99.3 billion of authorisation, after an $80.0 billion top-up on 18 May 2026. Check again against the 17 November results.</p>",
-          "text": "\"The $235 billion buyback.\" The sub cites a $235 billion buyback that NVIDIA's filings don't show. The July 2026 10-Q gives $99.3 billion of authorisation, after an $80.0 billion top-up on 18 May 2026. Check again against the 17 November results. Unconfirmed · July 2026 10-Q · 2026-11-08",
+          "html": "<p><strong>&quot;The $235 billion buyback.&quot;</strong> The sub cites a $235 billion buyback that NVIDIA's filings don't show. The July 2026 10-Q gives $99.3 billion of authorisation, after an $80.0 billion top-up on 18 May 2026. Repeated in the 10 November daily thread, again without a source. Check again against the 17 November results.</p>",
+          "text": "\"The $235 billion buyback.\" The sub cites a $235 billion buyback that NVIDIA's filings don't show. The July 2026 10-Q gives $99.3 billion of authorisation, after an $80.0 billion top-up on 18 May 2026. Repeated in the 10 November daily thread, again without a source. Check again against the 17 November results. Unconfirmed · July 2026 10-Q · 2026-11-11",
           "status": "unconfirmed",
-          "status_html": "<p><strong>Unconfirmed</strong> · <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm\" target=\"_blank\" rel=\"noopener noreferrer\">July 2026 10-Q</a> · 2026-11-08</p>",
-          "updated": "2026-11-08",
+          "status_html": "<p><strong>Unconfirmed</strong> · <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm\" target=\"_blank\" rel=\"noopener noreferrer\">July 2026 10-Q</a> · 2026-11-11</p>",
+          "updated": "2026-11-11",
           "sources": [
             "SEC filing"
           ],
