@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11",
+  "generated": "2026-11-14",
   "meta": {
     "feed": "nvda_stock",
     "title": "NVDA Stock Digest",
@@ -22,6 +22,240 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-14",
+      "title": "NVDA stock digest",
+      "intro_html": "<p>Jensen Huang has resigned. NVIDIA announced on 12 November that he had stepped down as CEO and director with immediate effect, and that CFO Colette Kress is interim CEO. Almost the whole hot list reacts to that. Two camps argue it out: &quot;bring him back&quot; (petitions, an employee letter, two large funds asking the board not to rush) and &quot;he's gone, move on&quot;. The other big thread is CNN's report that US intelligence is not sure Alice Huang was a spy.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Jensen Huang has resigned as NVIDIA's president, CEO and director, effective immediately, and CFO Colette Kress is interim CEO.</strong>",
+              "html": "<p><strong>Jensen Huang has resigned as NVIDIA's president, CEO and director, effective immediately, and CFO Colette Kress is interim CEO.</strong> NVIDIA announced it on 12 November in an 8-K and a newsroom release, which give no reason for the departure.</p>\n<ul>\n<li><strong>Why it matters:</strong> The founder has led the company since 1993, and there is no named successor. The release says the board will search for a permanent CEO among internal and external candidates. Kress stays CFO in the meantime. Harvey C. Jones, a former Synopsys CEO and executive chairman, becomes the board's first chair. Jones says the board expects operations, customer commitments and the roadmap to continue &quot;without interruption&quot;. The sub's reading, across <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xuuj1n/\" target=\"_blank\" rel=\"noopener noreferrer\">the 436-point CNN thread</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvicau/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;RIP don't think there's a chance he's coming back&quot;</a>, splits between &quot;forced to be fired let's be honest&quot; and &quot;there is no chance he will come back as CEO maybe as an advisor&quot;. Several commenters note that he resigned rather than being fired.</li>\n<li><strong>What to watch:</strong> the third-quarter results on 17 November, CFO commentary at about 1:20 p.m. PT and the call at 2 p.m. PT, unchanged and now led by Kress; any news of the CEO search; the board's investigation, which has given no timetable; Huang's appearance before Congress, which Rep. Mast says Huang is willing to make, with no confirmed date.</li>\n<li><strong>Numbers:</strong> none in the release. Coverage reports that the board accepted the resignation on Wednesday 11 November and disclosed it on Thursday, which matches the 8-K's 11 November report date.</li>\n<li><strong>Caveats:</strong> NVIDIA gives no reason. The press ties the resignation to the affairs Huang admitted to and to the Megaspeed reporting; Reuters reports, citing two people, a relationship with a second NVIDIA employee. Those are press reports, not company statements.</li>\n<li><strong>Read next:</strong> <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA Announces CEO Transition</a></li>\n</ul>",
+              "text": "Jensen Huang has resigned as NVIDIA's president, CEO and director, effective immediately, and CFO Colette Kress is interim CEO. NVIDIA announced it on 12 November in an 8-K and a newsroom release, which give no reason for the departure. Why it matters: The founder has led the company since 1993, and there is no named successor. The release says the board will search for a permanent CEO among internal and external candidates. Kress stays CFO in the meantime. Harvey C. Jones, a former Synopsys CEO and executive chairman, becomes the board's first chair. Jones says the board expects operations, customer commitments and the roadmap to continue \"without interruption\". The sub's reading, across the 436-point CNN thread and \"RIP don't think there's a chance he's coming back\" , splits between \"forced to be fired let's be honest\" and \"there is no chance he will come back as CEO maybe as an advisor\". Several commenters note that he resigned rather than being fired. What to watch: the third-quarter results on 17 November, CFO commentary at about 1:20 p.m. PT and the call at 2 p.m. PT, unchanged and now led by Kress; any news of the CEO search; the board's investigation, which has given no timetable; Huang's appearance before Congress, which Rep. Mast says Huang is willing to make, with no confirmed date. Numbers: none in the release. Coverage reports that the board accepted the resignation on Wednesday 11 November and disclosed it on Thursday, which matches the 8-K's 11 November report date. Caveats: NVIDIA gives no reason. The press ties the resignation to the affairs Huang admitted to and to the Megaspeed reporting; Reuters reports, citing two people, a relationship with a second NVIDIA employee. Those are press reports, not company statements. Read next: NVIDIA Announces CEO Transition Verified against the 8-K's exhibit 99.1 and the newsroom release · the second relationship is Reported, via TechCrunch and PC Gamer's live coverage",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K's exhibit 99.1</a> and the newsroom release · the second relationship is Reported, via <a href=\"https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/\" target=\"_blank\" rel=\"noopener noreferrer\">TechCrunch</a> and <a href=\"https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal/\" target=\"_blank\" rel=\"noopener noreferrer\">PC Gamer's live coverage</a></p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "nvidianews.nvidia.com",
+                "SEC filing",
+                "TechCrunch",
+                "pcgamer.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Altimeter's Brad Gerstner and Atreides' Gavin Baker wrote to the board asking for a &quot;slow, measured, and deliberate process&quot; that keeps Huang's return &quot;on the table&quot;.</strong>",
+              "html": "<p><strong>Altimeter's Brad Gerstner and Atreides' Gavin Baker wrote to the board asking for a &quot;slow, measured, and deliberate process&quot; that keeps Huang's return &quot;on the table&quot;.</strong> As reported, the one-page letter says that if the board decides, once the facts are known, that a return is not in shareholders' interest, that is its prerogative. It also says Kress and her team will lead capably in the meantime. Coverage puts the two funds' NVIDIA holdings at about $2.1 billion as of June. In <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvo9jy/\" target=\"_blank\" rel=\"noopener noreferrer\">the 263-point thread</a>, one camp cheered. Others called it &quot;performative&quot; or &quot;an emotional plea&quot;, and one comment read it as courting Huang for whatever he starts next.</p>",
+              "text": "Altimeter's Brad Gerstner and Atreides' Gavin Baker wrote to the board asking for a \"slow, measured, and deliberate process\" that keeps Huang's return \"on the table\". As reported, the one-page letter says that if the board decides, once the facts are known, that a return is not in shareholders' interest, that is its prerogative. It also says Kress and her team will lead capably in the meantime. Coverage puts the two funds' NVIDIA holdings at about $2.1 billion as of June. In the 263-point thread , one camp cheered. Others called it \"performative\" or \"an emotional plea\", and one comment read it as courting Huang for whatever he starts next. Reported · Asianet Newsable and FourWeekMBA ; the letter itself was not read. One copy reportedly lists Baker under \"Artis Capital Management\"",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://newsable.asianetnews.com/business/investors-urge-nvidia-board-to-keep-open-jensen-huang-return-option-articleshow-o7bia5h\" target=\"_blank\" rel=\"noopener noreferrer\">Asianet Newsable</a> and <a href=\"https://fourweekmba.com/ai-funds-with-2-1b-of-nvidia-ask-board-not-to-rush-a-new-ceo/\" target=\"_blank\" rel=\"noopener noreferrer\">FourWeekMBA</a>; the letter itself was not read. One copy reportedly lists Baker under &quot;Artis Capital Management&quot;</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "newsable.asianetnews.com",
+                "fourweekmba.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;We have not formally engaged any potential candidates,&quot; the board told CNBC, and it has not chosen a search firm.</strong>",
+              "html": "<p><strong>&quot;We have not formally engaged any potential candidates,&quot; the board told CNBC, and it has not chosen a search firm.</strong> That is as quoted in the key points that the poster copied into <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvjvq9/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>. A commenter asked whether the earlier reports naming a search firm were &quot;all of it just made up news?&quot; The Information had reported that headhunters were scouting candidates, naming Lisa Su and Rene Haas.</p>",
+              "text": "\"We have not formally engaged any potential candidates,\" the board told CNBC, and it has not chosen a search firm. That is as quoted in the key points that the poster copied into the thread . A commenter asked whether the earlier reports naming a search firm were \"all of it just made up news?\" The Information had reported that headhunters were scouting candidates, naming Lisa Su and Rene Haas. Reported · CNBC as quoted in the post, not fetched; The Information via The Standard",
+              "status": "reported",
+              "status_html": "<p>Reported · CNBC as quoted in the post, not fetched; The Information via <a href=\"https://www.thestandard.com.hk/finance/article/348055/Headhunters-may-be-hunting-for-Nvidias-next-successor-The-Information-reports\" target=\"_blank\" rel=\"noopener noreferrer\">The Standard</a></p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "thestandard.com.hk"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Employees and outside figures are petitioning for Huang's return.</strong>",
+              "html": "<p><strong>Employees and outside figures are petitioning for Huang's return.</strong> <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xuztri/\" target=\"_blank\" rel=\"noopener noreferrer\">A 265-point post</a> links a report of an employee petition. Fox News also reports staff calls to bring him back. Separate posts push a public &quot;Stand with Jensen&quot; letter, and one says Elon Musk signed it. Commenters doubted it: one says an NVIDIA VP posted that &quot;no such petition exists&quot;. The top-voted reply on <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvpgon/\" target=\"_blank\" rel=\"noopener noreferrer\">the &quot;Stand with Jensen&quot; post</a> is &quot;Stop cheating on your wife&quot;.</p>",
+              "text": "Employees and outside figures are petitioning for Huang's return. A 265-point post links a report of an employee petition. Fox News also reports staff calls to bring him back. Separate posts push a public \"Stand with Jensen\" letter, and one says Elon Musk signed it. Commenters doubted it: one says an NVIDIA VP posted that \"no such petition exists\". The top-voted reply on the \"Stand with Jensen\" post is \"Stop cheating on your wife\". Reported · staff petition via Fox News ; Musk's support via the Washington Post as cited by FourWeekMBA ; the VP's denial is one unsourced comment",
+              "status": "reported",
+              "status_html": "<p>Reported · staff petition via <a href=\"https://www.foxnews.com/live-news/ai-news-china-nvidia-jensen-huang-resigns-super-intelligence-safety-11-13-26\" target=\"_blank\" rel=\"noopener noreferrer\">Fox News</a>; Musk's support via the Washington Post as cited by <a href=\"https://fourweekmba.com/ai-funds-with-2-1b-of-nvidia-ask-board-not-to-rush-a-new-ceo/\" target=\"_blank\" rel=\"noopener noreferrer\">FourWeekMBA</a>; the VP's denial is one unsourced comment</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "foxnews.com",
+                "fourweekmba.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "China and export controls",
+          "category": "china",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>CNN reports that US intelligence is not sure Alice Huang was a spy, and that the evidence collected so far does not prove it.</strong>",
+              "html": "<p><strong>CNN reports that US intelligence is not sure Alice Huang was a spy, and that the evidence collected so far does not prove it.</strong> Per CNN's 12 November report, some ODNI officials call the spy label &quot;not entirely accurate and over-torqued&quot;. CIA officials are &quot;not yet convinced&quot; that intercepts show she knowingly passed information to Beijing. Attorney General Todd Blanche said the Justice Department had not reached a conclusion. CNN's headline adds that this &quot;doesn't mean she wasn't a risk&quot;. On the sub, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xuuj1n/\" target=\"_blank\" rel=\"noopener noreferrer\">the 436-point thread</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xv6jhy/\" target=\"_blank\" rel=\"noopener noreferrer\">David Sacks's &quot;the spy narrative is collapsing&quot; post</a> read it as a vindication and a &quot;hit job&quot;. The more specific replies argue that the problem was never espionage but Megaspeed moving chips into China, and that sleeping with subordinates was enough to end his tenure.</p>",
+              "text": "CNN reports that US intelligence is not sure Alice Huang was a spy, and that the evidence collected so far does not prove it. Per CNN's 12 November report, some ODNI officials call the spy label \"not entirely accurate and over-torqued\". CIA officials are \"not yet convinced\" that intercepts show she knowingly passed information to Beijing. Attorney General Todd Blanche said the Justice Department had not reached a conclusion. CNN's headline adds that this \"doesn't mean she wasn't a risk\". On the sub, the 436-point thread and David Sacks's \"the spy narrative is collapsing\" post read it as a vindication and a \"hit job\". The more specific replies argue that the problem was never espionage but Megaspeed moving chips into China, and that sleeping with subordinates was enough to end his tenure. Reported · CNN ; not an official statement from any agency",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia\" target=\"_blank\" rel=\"noopener noreferrer\">CNN</a>; not an official statement from any agency</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "cnn.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Commerce Secretary Lutnick faces questions over why Megaspeed was never put on the entity list.</strong>",
+              "html": "<p><strong>Commerce Secretary Lutnick faces questions over why Megaspeed was never put on the entity list.</strong> As reported by Axios, Treasury Secretary Bessent pressed Lutnick on it, and Lutnick replied &quot;I don't know. I'll look into it.&quot; House Democrats have asked for written answers by 1 December on what Commerce officials knew. <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvhrtt/\" target=\"_blank\" rel=\"noopener noreferrer\">The 37-point post</a> adds his sons' firm, Cantor Fitzgerald. The only Cantor–NVIDIA link found is an older report of about $1.2 billion in NVIDIA-linked holdings, with no Megaspeed tie. Commenters largely say the enforcement failure was the Commerce Department's.</p>",
+              "text": "Commerce Secretary Lutnick faces questions over why Megaspeed was never put on the entity list. As reported by Axios, Treasury Secretary Bessent pressed Lutnick on it, and Lutnick replied \"I don't know. I'll look into it.\" House Democrats have asked for written answers by 1 December on what Commerce officials knew. The 37-point post adds his sons' firm, Cantor Fitzgerald. The only Cantor–NVIDIA link found is an older report of about $1.2 billion in NVIDIA-linked holdings, with no Megaspeed tie. Commenters largely say the enforcement failure was the Commerce Department's. Reported · Axios via AI Weekly ; the sons' firm angle is the headline's, and the article was not read",
+              "status": "reported",
+              "status_html": "<p>Reported · Axios via <a href=\"https://aiweekly.co/alerts/bessent-confronts-lutnick-over-megaspeed-entity-list-delay\" target=\"_blank\" rel=\"noopener noreferrer\">AI Weekly</a>; the sons' firm angle is the headline's, and the article was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "aiweekly.co"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The biggest threads by comments, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xumejr/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;THIRD!?&quot;</a> with 612 and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvjt2d/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;LET'S GO&quot;</a> with 570, are jokes and grief, not analysis.</strong>",
+              "html": "<p><strong>The biggest threads by comments, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xumejr/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;THIRD!?&quot;</a> with 612 and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvjt2d/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;LET'S GO&quot;</a> with 570, are jokes and grief, not analysis.</strong> One reply sums up the mood: &quot;This sub went from 'buy the dip' to 'launch a petition'&quot;. A minority, mostly in the weekend thread, says the removal is &quot;priced in&quot; and wants to talk about the earnings call: guidance, and whether revenue falls without grey-market Chinese demand.</p>",
+              "text": "The biggest threads by comments, \"THIRD!?\" with 612 and \"LET'S GO\" with 570, are jokes and grief, not analysis. One reply sums up the mood: \"This sub went from 'buy the dip' to 'launch a petition'\". A minority, mostly in the weekend thread, says the removal is \"priced in\" and wants to talk about the earnings call: guidance, and whether revenue falls without grey-market Chinese demand.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;THIRD!?&quot; implies a third relationship.</strong>",
+              "html": "<p><strong>&quot;THIRD!?&quot; implies a third relationship.</strong> Its comments refer to &quot;consensual affairs with 3 women&quot;. Searches found Reuters reporting a second relationship with an NVIDIA employee, and nothing on a third.</p>",
+              "text": "\"THIRD!?\" implies a third relationship. Its comments refer to \"consensual affairs with 3 women\". Searches found Reuters reporting a second relationship with an NVIDIA employee, and nothing on a third. Unconfirmed · WebSearch of 11–13 November coverage",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · WebSearch of 11–13 November coverage</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Up to 1.5 million&quot; smuggled NVIDIA GPUs, attributed to SemiAnalysis, are offered as the real reason for the resignation in <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvpzsa/\" target=\"_blank\" rel=\"noopener noreferrer\">a 27-point post</a>.</strong>",
+              "html": "<p><strong>&quot;Up to 1.5 million&quot; smuggled NVIDIA GPUs, attributed to SemiAnalysis, are offered as the real reason for the resignation in <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xvpzsa/\" target=\"_blank\" rel=\"noopener noreferrer\">a 27-point post</a>.</strong> A comment quoting the article says it &quot;provides no direct evidence&quot; that intelligence agencies swayed the board or that Huang took part in unauthorised exports. No SemiAnalysis piece with that figure was found. The closest is Epoch AI's estimate of 290,000 to 1.6 million H100-equivalents smuggled through 2025.</p>",
+              "text": "\"Up to 1.5 million\" smuggled NVIDIA GPUs, attributed to SemiAnalysis, are offered as the real reason for the resignation in a 27-point post . A comment quoting the article says it \"provides no direct evidence\" that intelligence agencies swayed the board or that Huang took part in unauthorised exports. No SemiAnalysis piece with that figure was found. The closest is Epoch AI's estimate of 290,000 to 1.6 million H100-equivalents smuggled through 2025. Unconfirmed · WebSearch; Epoch AI is a different source",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · WebSearch; <a href=\"https://epoch.ai/publications/chip-smuggling\" target=\"_blank\" rel=\"noopener noreferrer\">Epoch AI</a> is a different source</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "epoch.ai"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;The board has approached Rene Haas, according to the Financial Times,&quot; says a weekend-thread comment with no link.</strong>",
+              "html": "<p><strong>&quot;The board has approached Rene Haas, according to the Financial Times,&quot; says a weekend-thread comment with no link.</strong> No FT report was found. Haas appears only in The Information's reporting on headhunters' scouting, and the board says no candidates have been formally engaged.</p>",
+              "text": "\"The board has approached Rene Haas, according to the Financial Times,\" says a weekend-thread comment with no link. No FT report was found. Haas appears only in The Information's reporting on headhunters' scouting, and the board says no candidates have been formally engaged. Unconfirmed · WebSearch for the FT report",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · WebSearch for the FT report</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> NVDA_Stock (24 hot posts, 13 threads read in full, including the 14–15 November weekend thread).",
+              "html": "<p><strong>Read:</strong> NVDA_Stock (24 hot posts, 13 threads read in full, including the 14–15 November weekend thread). <strong>Sources checked:</strong> NVIDIA SEC filings (one 8-K on 12 November, items 5.02 and 9.01; nothing else since the 6 November Form 4), NVIDIA Newsroom. NVIDIA investor events was not fetched; the results date is confirmed by the CEO transition release.</p>",
+              "text": "Read: NVDA_Stock (24 hot posts, 13 threads read in full, including the 14–15 November weekend thread). Sources checked: NVIDIA SEC filings (one 8-K on 12 November, items 5.02 and 9.01; nothing else since the 6 November Form 4), NVIDIA Newsroom. NVIDIA investor events was not fetched; the results date is confirmed by the CEO transition release.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> an AI in patient care blog post (13 November); a GeForce NOW post on Dawn of War IV (12 November).",
+              "html": "<p><strong>Announced, not discussed:</strong> <a href=\"https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/\" target=\"_blank\" rel=\"noopener noreferrer\">an AI in patient care blog post</a> (13 November); <a href=\"https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/\" target=\"_blank\" rel=\"noopener noreferrer\">a GeForce NOW post on Dawn of War IV</a> (12 November). Neither bears on the stock.</p>",
+              "text": "Announced, not discussed: an AI in patient care blog post (13 November); a GeForce NOW post on Dawn of War IV (12 November). Neither bears on the stock. Verified against the NVIDIA Newsroom",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news\" target=\"_blank\" rel=\"noopener noreferrer\">the NVIDIA Newsroom</a></p>",
+              "updated": null,
+              "sources": [
+                "blogs.nvidia.com",
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Skipped as memes or personal posts: the flowers outside headquarters, the Denny&#x27;s plaque, &quot;people cry outside headquarters&quot;, &quot;Thank you Jensen&quot;, the &quot;return…",
+              "html": "<p>Skipped as memes or personal posts: the flowers outside headquarters, the Denny's plaque, &quot;people cry outside headquarters&quot;, &quot;Thank you Jensen&quot;, the &quot;return in Doomsday&quot; post, &quot;Silicon Valley plots Jensen Huang's comeback&quot; (a link post whose replies added nothing), &quot;piece about his last hours&quot;, Balaji's X post, and two posts with no content.</p>",
+              "text": "Skipped as memes or personal posts: the flowers outside headquarters, the Denny's plaque, \"people cry outside headquarters\", \"Thank you Jensen\", the \"return in Doomsday\" post, \"Silicon Valley plots Jensen Huang's comeback\" (a link post whose replies added nothing), \"piece about his last hours\", Balaji's X post, and two posts with no content.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "title": "NVDA stock digest",
@@ -462,25 +696,39 @@
       "items": [
         {
           "headline": "<strong>Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang.</strong>",
-          "html": "<p><strong>Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang.</strong> The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. As of 11 November no reports were found on whether Huang will attend.</p>",
-          "text": "Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang. The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. As of 11 November no reports were found on whether Huang will attend. Reported · Analytics Insight and RedState ; no house.gov copy found · 2026-11-11",
+          "html": "<p><strong>Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang.</strong> The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. Since his resignation, Mast has said Huang indicated he is willing to appear, per CNN's live coverage; no confirmed date was found.</p>",
+          "text": "Three House committee chairs asked Huang for a joint closed-door briefing on 18 November 2026, about his contacts with Megaspeed executive Alice Huang. The chairs are Mast (Foreign Affairs), Moolenaar (China Select Committee) and Crawford (Intelligence). The letter is dated 4 November and asks for a reply by 11 November. Coverage describes it as a voluntary request, not a subpoena. Since his resignation, Mast has said Huang indicated he is willing to appear, per CNN's live coverage; no confirmed date was found. Reported · Analytics Insight , RedState and CNN ; no house.gov copy found · 2026-11-14",
           "status": "reported",
-          "status_html": "<p>Reported · <a href=\"https://www.analyticsinsight.net/news/house-republicans-ask-nvidia-ceo-jensen-huang-for-closed-door-briefing\" target=\"_blank\" rel=\"noopener noreferrer\">Analytics Insight</a> and <a href=\"https://redstate.com/ben-smith/2026/11/05/gop-chairmen-want-answers-from-nvidias-jensen-huang-after-alleged-chinese-spy-plot-n2209092\" target=\"_blank\" rel=\"noopener noreferrer\">RedState</a>; no house.gov copy found · 2026-11-11</p>",
-          "updated": "2026-11-11",
+          "status_html": "<p>Reported · <a href=\"https://www.analyticsinsight.net/news/house-republicans-ask-nvidia-ceo-jensen-huang-for-closed-door-briefing\" target=\"_blank\" rel=\"noopener noreferrer\">Analytics Insight</a>, <a href=\"https://redstate.com/ben-smith/2026/11/05/gop-chairmen-want-answers-from-nvidias-jensen-huang-after-alleged-chinese-spy-plot-n2209092\" target=\"_blank\" rel=\"noopener noreferrer\">RedState</a> and <a href=\"https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout\" target=\"_blank\" rel=\"noopener noreferrer\">CNN</a>; no house.gov copy found · 2026-11-14</p>",
+          "updated": "2026-11-14",
           "sources": [
             "analyticsinsight.net",
-            "redstate.com"
+            "redstate.com",
+            "cnn.com"
           ],
           "due": "2026-11-18",
           "due_label": "requested briefing date"
         },
         {
-          "headline": "<strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong>",
-          "html": "<p><strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong> A committee of independent directors with outside counsel oversees it. The board says it has &quot;no reason to believe&quot; national security or company secrets were compromised and will give updates &quot;as appropriate&quot;. On 10 November the independent directors named Joon H. Kim, former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen &amp; Katz to run it. No timetable or committee members have been given. Watch for an update, and whether the 17 November call addresses it.</p>",
-          "text": "The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026. A committee of independent directors with outside counsel oversees it. The board says it has \"no reason to believe\" national security or company secrets were compromised and will give updates \"as appropriate\". On 10 November the independent directors named Joon H. Kim, former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen & Katz to run it. No timetable or committee members have been given. Watch for an update, and whether the 17 November call addresses it. Verified against the board's statement and the independent directors' statement · 2026-11-11",
+          "headline": "<strong>The permanent CEO search after Jensen Huang's resignation on 12 November 2026.</strong>",
+          "html": "<p><strong>The permanent CEO search after Jensen Huang's resignation on 12 November 2026.</strong> Huang stepped down as president, CEO and director with immediate effect. CFO Colette Kress is interim CEO and stays CFO, and Harvey C. Jones became the board's first chair. The board says it will consider internal and external candidates. It told CNBC, as quoted on the sub, that it has not chosen a search firm or &quot;formally engaged any potential candidates&quot;. Altimeter's Gerstner and Atreides' Baker have asked the board, in a reported letter, not to rush and to keep Huang's return &quot;on the table&quot;. A claim that the FT reported an approach to Arm's Rene Haas is unconfirmed. Watch for a named successor or search firm.</p>",
+          "text": "The permanent CEO search after Jensen Huang's resignation on 12 November 2026. Huang stepped down as president, CEO and director with immediate effect. CFO Colette Kress is interim CEO and stays CFO, and Harvey C. Jones became the board's first chair. The board says it will consider internal and external candidates. It told CNBC, as quoted on the sub, that it has not chosen a search firm or \"formally engaged any potential candidates\". Altimeter's Gerstner and Atreides' Baker have asked the board, in a reported letter, not to rush and to keep Huang's return \"on the table\". A claim that the FT reported an approach to Arm's Rene Haas is unconfirmed. Watch for a named successor or search firm. Verified against the 8-K exhibit for the resignation and interim roles; the search status and the investors' letter are Reported · 2026-11-14",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener noreferrer\">the board's statement</a> and <a href=\"https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board\" target=\"_blank\" rel=\"noopener noreferrer\">the independent directors' statement</a> · 2026-11-11</p>",
-          "updated": "2026-11-11",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K exhibit</a> for the resignation and interim roles; the search status and the investors' letter are Reported · 2026-11-14</p>",
+          "updated": "2026-11-14",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong>",
+          "html": "<p><strong>The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026.</strong> A committee of independent directors with outside counsel oversees it. The board says it has &quot;no reason to believe&quot; national security or company secrets were compromised and will give updates &quot;as appropriate&quot;. On 10 November the independent directors named Joon H. Kim, former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen &amp; Katz to run it. No timetable or committee members have been given, and the 12 November CEO transition release does not mention it. Watch for an update, and whether the 17 November call addresses it.</p>",
+          "text": "The board's independent investigation into reports that Jensen Huang was targeted by a foreign intelligence effort opened on 8 November 2026. A committee of independent directors with outside counsel oversees it. The board says it has \"no reason to believe\" national security or company secrets were compromised and will give updates \"as appropriate\". On 10 November the independent directors named Joon H. Kim, former acting US Attorney for the Southern District of New York, and Wachtell, Lipton, Rosen & Katz to run it. No timetable or committee members have been given, and the 12 November CEO transition release does not mention it. Watch for an update, and whether the 17 November call addresses it. Verified against the board's statement and the independent directors' statement · 2026-11-14",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener noreferrer\">the board's statement</a> and <a href=\"https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board\" target=\"_blank\" rel=\"noopener noreferrer\">the independent directors' statement</a> · 2026-11-14</p>",
+          "updated": "2026-11-14",
           "sources": [
             "nvidianews.nvidia.com"
           ],
@@ -496,11 +744,11 @@
       "items": [
         {
           "headline": "<strong>Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT.</strong>",
-          "html": "<p><strong>Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT.</strong> The quarter ended 25 October 2026.</p>",
-          "text": "Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT. The quarter ended 25 October 2026. Verified against NVIDIA's announcement · 2026-11-08",
+          "html": "<p><strong>Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT.</strong> The quarter ended 25 October 2026. The 12 November CEO transition release confirms the date is unchanged; interim CEO Colette Kress, who is also CFO, will lead it.</p>",
+          "text": "Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT. The quarter ended 25 October 2026. The 12 November CEO transition release confirms the date is unchanged; interim CEO Colette Kress, who is also CFO, will lead it. Verified against NVIDIA's announcement and the CEO transition release · 2026-11-14",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's announcement</a> · 2026-11-08</p>",
-          "updated": "2026-11-08",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's announcement</a> and <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener noreferrer\">the CEO transition release</a> · 2026-11-14</p>",
+          "updated": "2026-11-14",
           "sources": [
             "nvidianews.nvidia.com"
           ],
@@ -556,6 +804,19 @@
       "lead_html": null,
       "items": [
         {
+          "headline": "<strong>Why Megaspeed was never put on the entity list.</strong>",
+          "html": "<p><strong>Why Megaspeed was never put on the entity list.</strong> As reported by Axios, Treasury Secretary Bessent pressed Commerce Secretary Lutnick on it, and House Democrats want written answers from Lutnick by 1 December on what his officials knew.</p>",
+          "text": "Why Megaspeed was never put on the entity list. As reported by Axios, Treasury Secretary Bessent pressed Commerce Secretary Lutnick on it, and House Democrats want written answers from Lutnick by 1 December on what his officials knew. Reported · Axios via AI Weekly · 2026-11-14",
+          "status": "reported",
+          "status_html": "<p>Reported · Axios via <a href=\"https://aiweekly.co/alerts/bessent-confronts-lutnick-over-megaspeed-entity-list-delay\" target=\"_blank\" rel=\"noopener noreferrer\">AI Weekly</a> · 2026-11-14</p>",
+          "updated": "2026-11-14",
+          "sources": [
+            "aiweekly.co"
+          ],
+          "due": "2026-12-01",
+          "due_label": "House Democrats' deadline for Lutnick's answers"
+        },
+        {
           "headline": "<strong>NVIDIA reportedly requires cloud partners to sell at least 51% of their services to non-Chinese companies, on new contracts only, worldwide.</strong>",
           "html": "<p><strong>NVIDIA reportedly requires cloud partners to sell at least 51% of their services to non-Chinese companies, on new contracts only, worldwide.</strong> The rule was reportedly passed on verbally, starting in the summer. Not yet known: what the 51% is measured by, and how it is checked.</p>",
           "text": "NVIDIA reportedly requires cloud partners to sell at least 51% of their services to non-Chinese companies, on new contracts only, worldwide. The rule was reportedly passed on verbally, starting in the summer. Not yet known: what the 51% is measured by, and how it is checked. Reported · the Financial Times via The Standard ; Reuters could not verify it · 2026-11-08",
@@ -570,13 +831,14 @@
         },
         {
           "headline": "<strong>The Information reports that Alice Huang's network moved at least $7.5 billion of NVIDIA chips, about 240,000 H100, H200 and some A100 units, to Chinese firms, through Shanghai Century Litong, which became an NVIDIA &quot;preferred cloud partner&quot; in 2023.</strong>",
-          "html": "<p><strong>The Information reports that Alice Huang's network moved at least $7.5 billion of NVIDIA chips, about 240,000 H100, H200 and some A100 units, to Chinese firms, through Shanghai Century Litong, which became an NVIDIA &quot;preferred cloud partner&quot; in 2023.</strong> The report cites two people who know her and corporate records. NVIDIA had not responded as of Reuters' 10 November report. Watch for an NVIDIA response, and whether the board inquiry or the 18 November briefing addresses it.</p>",
-          "text": "The Information reports that Alice Huang's network moved at least $7.5 billion of NVIDIA chips, about 240,000 H100, H200 and some A100 units, to Chinese firms, through Shanghai Century Litong, which became an NVIDIA \"preferred cloud partner\" in 2023. The report cites two people who know her and corporate records. NVIDIA had not responded as of Reuters' 10 November report. Watch for an NVIDIA response, and whether the board inquiry or the 18 November briefing addresses it. Reported · The Information via Reuters on Investing.com · 2026-11-11",
+          "html": "<p><strong>The Information reports that Alice Huang's network moved at least $7.5 billion of NVIDIA chips, about 240,000 H100, H200 and some A100 units, to Chinese firms, through Shanghai Century Litong, which became an NVIDIA &quot;preferred cloud partner&quot; in 2023.</strong> The report cites two people who know her and corporate records. NVIDIA had not responded as of Reuters' 10 November report. Separately, CNN reported on 12 November that US intelligence is not sure she was a spy: ODNI officials call the label &quot;over-torqued&quot;, the CIA is &quot;not yet convinced&quot;, and the Attorney General says the Justice Department has reached no conclusion. Watch for an NVIDIA response, and whether the board inquiry or the 18 November briefing addresses it.</p>",
+          "text": "The Information reports that Alice Huang's network moved at least $7.5 billion of NVIDIA chips, about 240,000 H100, H200 and some A100 units, to Chinese firms, through Shanghai Century Litong, which became an NVIDIA \"preferred cloud partner\" in 2023. The report cites two people who know her and corporate records. NVIDIA had not responded as of Reuters' 10 November report. Separately, CNN reported on 12 November that US intelligence is not sure she was a spy: ODNI officials call the label \"over-torqued\", the CIA is \"not yet convinced\", and the Attorney General says the Justice Department has reached no conclusion. Watch for an NVIDIA response, and whether the board inquiry or the 18 November briefing addresses it. Reported · The Information via Reuters on Investing.com ; CNN · 2026-11-14",
           "status": "reported",
-          "status_html": "<p>Reported · The Information via <a href=\"https://www.investing.com/news/stock-market-news/nvidia-ceos-affair-with-alleged-spy-aided-75-billion-in-china-chip-shipments-information-reports-5014827\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters on Investing.com</a> · 2026-11-11</p>",
-          "updated": "2026-11-11",
+          "status_html": "<p>Reported · The Information via <a href=\"https://www.investing.com/news/stock-market-news/nvidia-ceos-affair-with-alleged-spy-aided-75-billion-in-china-chip-shipments-information-reports-5014827\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters on Investing.com</a>; <a href=\"https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia\" target=\"_blank\" rel=\"noopener noreferrer\">CNN</a> · 2026-11-14</p>",
+          "updated": "2026-11-14",
           "sources": [
-            "Investing.com"
+            "Investing.com",
+            "cnn.com"
           ],
           "due": null,
           "due_label": null
