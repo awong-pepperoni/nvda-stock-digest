@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14",
+  "generated": "2026-11-17",
   "meta": {
     "feed": "nvda_stock",
     "title": "NVDA Stock Digest",
@@ -22,6 +22,265 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-17",
+      "title": "NVDA stock digest",
+      "intro_html": "<p>This run was taken on results day, before the numbers came out. The sub has stopped asking whether Huang resigned and is now asking whether he was pushed out by a plot. That shift follows Washington's statements on 16 November: the Commerce and Justice Departments said NVIDIA had cut off Megaspeed in June 2025, and Commerce issued a new rule on remote access to AI chips. Meanwhile, a CNBC source says the board is not considering bringing Huang back, and on 17 November the board set up a new national security committee.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Commerce and Justice Departments say they began investigating Megaspeed in 2024, and that NVIDIA put it on its &quot;no sell&quot; list in June 2025 after Commerce asked for its sales records.</strong>",
+              "html": "<p><strong>The Commerce and Justice Departments say they began investigating Megaspeed in 2024, and that NVIDIA put it on its &quot;no sell&quot; list in June 2025 after Commerce asked for its sales records.</strong> The joint statement of 16 November says the Justice Department now leads a criminal investigation of Megaspeed. It does not mention Jensen Huang.</p>\n<ul>\n<li><strong>Why it matters:</strong> This is the first official account of the timeline, and it says NVIDIA cut off the customer at the heart of the story more than a year ago. As reported, the statement says its aim is to &quot;address inaccurate information circulating in public reporting&quot;. The sub reads it as clearing NVIDIA. <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xyc4vd/\" target=\"_blank\" rel=\"noopener noreferrer\">The 293-point thread</a> and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xyb7vb/\" target=\"_blank\" rel=\"noopener noreferrer\">the 55-point Commerce thread</a> are full of &quot;nothing burger&quot; and &quot;hit job&quot; replies. One commenter summed it up as &quot;NVDA hasn't sold anything to Megaspeed in over a year and cooperated with DoJ investigation from day 1&quot;. A more careful reply notes that no charges against NVIDIA or Huang were announced, and that &quot;this does not mean they are formally cleared&quot;. Another says it puts distance between NVIDIA and Megaspeed but not between Huang and Alice Huang.</li>\n<li><strong>What to watch:</strong> any charges against Megaspeed; the House chairs' requested 18 November briefing; the 1 December deadline for Lutnick's written answers; whether tonight's call addresses it.</li>\n<li><strong>Numbers:</strong> dates only: probe opened in 2024; records requested in May 2025; no-sell listing and an on-site check in Singapore, where Alice Huang was interviewed, in June 2025, as reported.</li>\n<li><strong>Caveats:</strong> No charges have been announced against Megaspeed or Alice Huang, and Megaspeed denies diverting chips. One secondary outlet notes that the statement skips an NVIDIA email the New York Times reported. NPR reportedly dates the criminal case to 2025, while CNBC and most others say 2024.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC on the joint statement</a></li>\n</ul>",
+              "text": "The Commerce and Justice Departments say they began investigating Megaspeed in 2024, and that NVIDIA put it on its \"no sell\" list in June 2025 after Commerce asked for its sales records. The joint statement of 16 November says the Justice Department now leads a criminal investigation of Megaspeed. It does not mention Jensen Huang. Why it matters: This is the first official account of the timeline, and it says NVIDIA cut off the customer at the heart of the story more than a year ago. As reported, the statement says its aim is to \"address inaccurate information circulating in public reporting\". The sub reads it as clearing NVIDIA. The 293-point thread and the 55-point Commerce thread are full of \"nothing burger\" and \"hit job\" replies. One commenter summed it up as \"NVDA hasn't sold anything to Megaspeed in over a year and cooperated with DoJ investigation from day 1\". A more careful reply notes that no charges against NVIDIA or Huang were announced, and that \"this does not mean they are formally cleared\". Another says it puts distance between NVIDIA and Megaspeed but not between Huang and Alice Huang. What to watch: any charges against Megaspeed; the House chairs' requested 18 November briefing; the 1 December deadline for Lutnick's written answers; whether tonight's call addresses it. Numbers: dates only: probe opened in 2024; records requested in May 2025; no-sell listing and an on-site check in Singapore, where Alice Huang was interviewed, in June 2025, as reported. Caveats: No charges have been announced against Megaspeed or Alice Huang, and Megaspeed denies diverting chips. One secondary outlet notes that the statement skips an NVIDIA email the New York Times reported. NPR reportedly dates the criminal case to 2025, while CNBC and most others say 2024. Read next: CNBC on the joint statement Reported · CNBC and SCMP ; the statement was not read on commerce.gov or justice.gov",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion\" target=\"_blank\" rel=\"noopener noreferrer\">SCMP</a>; the statement was not read on commerce.gov or justice.gov</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "CNBC",
+                "scmp.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Commerce issued an interim final rule on 16 November that requires licences for advanced AI chips going to Brazil, Indonesia, Malaysia, Singapore and Thailand, and limits remote access from China.</strong>",
+              "html": "<p><strong>Commerce issued an interim final rule on 16 November that requires licences for advanced AI chips going to Brazil, Indonesia, Malaysia, Singapore and Thailand, and limits remote access from China.</strong> As reported, data centres that give companies from China and other embargoed countries more than 12 million aggregate TPP of computing power will need a licence.</p>\n<ul>\n<li><strong>Why it matters:</strong> The rule targets the route the Megaspeed story is about: Chinese firms using NVIDIA chips held in third countries. As reported, there is an exception for companies headquartered in the US, or whose parent is, provided they meet reporting requirements. The rule also formally rescinds the January 2025 AI Diffusion Rule. On the sub, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xy5zps/\" target=\"_blank\" rel=\"noopener noreferrer\">a small &quot;New GPU restrictions&quot; thread</a> reads it as licensing rather than a ban. One reply says &quot;None of this is new&quot; for China itself.</li>\n<li><strong>What to watch:</strong> publication in the Federal Register, which is when it takes effect, as reported; any revenue-exposure commentary on tonight's call.</li>\n<li><strong>Numbers:</strong> One outlet reports that customers based in the five countries are &quot;at most 1.3%&quot; of NVIDIA revenue. That matches the 1.33% that a poster in the forward P/E thread (under Valuation) attributes to the second quarter. Neither was checked against the 10-Q.</li>\n<li><strong>Caveats:</strong> The rule names no chipmaker. Coverage links it to NVIDIA, but that link is the press's framing.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/\" target=\"_blank\" rel=\"noopener noreferrer\">Data Center Dynamics on the rule</a></li>\n</ul>",
+              "text": "Commerce issued an interim final rule on 16 November that requires licences for advanced AI chips going to Brazil, Indonesia, Malaysia, Singapore and Thailand, and limits remote access from China. As reported, data centres that give companies from China and other embargoed countries more than 12 million aggregate TPP of computing power will need a licence. Why it matters: The rule targets the route the Megaspeed story is about: Chinese firms using NVIDIA chips held in third countries. As reported, there is an exception for companies headquartered in the US, or whose parent is, provided they meet reporting requirements. The rule also formally rescinds the January 2025 AI Diffusion Rule. On the sub, a small \"New GPU restrictions\" thread reads it as licensing rather than a ban. One reply says \"None of this is new\" for China itself. What to watch: publication in the Federal Register, which is when it takes effect, as reported; any revenue-exposure commentary on tonight's call. Numbers: One outlet reports that customers based in the five countries are \"at most 1.3%\" of NVIDIA revenue. That matches the 1.33% that a poster in the forward P/E thread (under Valuation) attributes to the second quarter. Neither was checked against the 10-Q. Caveats: The rule names no chipmaker. Coverage links it to NVIDIA, but that link is the press's framing. Read next: Data Center Dynamics on the rule Reported · DCD , Bloomberg , CBS and TECHi ; the BIS text and Federal Register were not read",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/\" target=\"_blank\" rel=\"noopener noreferrer\">DCD</a>, <a href=\"https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips\" target=\"_blank\" rel=\"noopener noreferrer\">Bloomberg</a>, <a href=\"https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/\" target=\"_blank\" rel=\"noopener noreferrer\">CBS</a> and <a href=\"https://www.techi.com/us-ai-chip-export-rule-nvidia-revenue-exposure/\" target=\"_blank\" rel=\"noopener noreferrer\">TECHi</a>; the BIS text and Federal Register were not read</p>",
+              "updated": "2026-11-16",
+              "sources": [
+                "r/NVDA_Stock",
+                "datacenterdynamics.com",
+                "Bloomberg",
+                "cbsnews.com",
+                "techi.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>NVIDIA's board set up a standing National Security and Export Control Oversight Committee on 17 November.</strong>",
+              "html": "<p><strong>NVIDIA's board set up a standing National Security and Export Control Oversight Committee on 17 November.</strong> Suzanne Nora Johnson chairs it, with Stephen C. Neal and John O. Dabiri as members. The National Security and Global Trade Compliance teams report to it, and it will meet at least quarterly and work with outside experts. Chair Harvey Jones says NVIDIA wants a framework that uses &quot;every tool at our disposal to safeguard national security.&quot; The release does not mention Huang, the investigation or Megaspeed. It was not discussed on the sub this run.</p>",
+              "text": "NVIDIA's board set up a standing National Security and Export Control Oversight Committee on 17 November. Suzanne Nora Johnson chairs it, with Stephen C. Neal and John O. Dabiri as members. The National Security and Global Trade Compliance teams report to it, and it will meet at least quarterly and work with outside experts. Chair Harvey Jones says NVIDIA wants a framework that uses \"every tool at our disposal to safeguard national security.\" The release does not mention Huang, the investigation or Megaspeed. It was not discussed on the sub this run. Verified against the NVIDIA Newsroom",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee\" target=\"_blank\" rel=\"noopener noreferrer\">the NVIDIA Newsroom</a></p>",
+              "updated": null,
+              "sources": [
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The board is not considering bringing Huang back as CEO, a person familiar with the matter told CNBC on 16 November.</strong>",
+              "html": "<p><strong>The board is not considering bringing Huang back as CEO, a person familiar with the matter told CNBC on 16 November.</strong> CBS, citing its own source, says directors are not interested in reinstating him &quot;as CEO or in any other role&quot;. On the same day, President Trump said &quot;I would not mind seeing that,&quot; as quoted by CBS, after recommending Tim Cook the week before. The sub's post on Trump, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xxrtj1/\" target=\"_blank\" rel=\"noopener noreferrer\">136 points</a>, also cites the FT and The Independent. In <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xxvs3o/\" target=\"_blank\" rel=\"noopener noreferrer\">the 205-point CNBC thread</a>, the top replies split between &quot;Fire the fucking board&quot; and &quot;He's a liability&quot;. Several said the board can't act before its investigation ends. A separate <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xxufew/\" target=\"_blank\" rel=\"noopener noreferrer\">28-point post</a> says the investigation takes &quot;4 to 6 weeks&quot;, which is the poster's guess; the board has given no timetable.</p>",
+              "text": "The board is not considering bringing Huang back as CEO, a person familiar with the matter told CNBC on 16 November. CBS, citing its own source, says directors are not interested in reinstating him \"as CEO or in any other role\". On the same day, President Trump said \"I would not mind seeing that,\" as quoted by CBS, after recommending Tim Cook the week before. The sub's post on Trump, 136 points , also cites the FT and The Independent. In the 205-point CNBC thread , the top replies split between \"Fire the fucking board\" and \"He's a liability\". Several said the board can't act before its investigation ends. A separate 28-point post says the investigation takes \"4 to 6 weeks\", which is the poster's guess; the board has given no timetable. Reported · CNBC , CBS and the Washington Post ; anonymous sources, no on-record board statement. The post's quotes from the FT and The Independent were not checked; The Independent would not load",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a>, <a href=\"https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/\" target=\"_blank\" rel=\"noopener noreferrer\">CBS</a> and <a href=\"https://www.washingtonpost.com/technology/2026/11/16/trump-says-he-would-not-mind-jensen-huangs-return-nvidia/\" target=\"_blank\" rel=\"noopener noreferrer\">the Washington Post</a>; anonymous sources, no on-record board statement. The post's quotes from the FT and The Independent were not checked; The Independent would not load</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "CNBC",
+                "cbsnews.com",
+                "washingtonpost.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>CBS puts the reinstatement petition at more than 180,000 signatures, including more than 9,000 NVIDIA employees.</strong>",
+              "html": "<p><strong>CBS puts the reinstatement petition at more than 180,000 signatures, including more than 9,000 NVIDIA employees.</strong> <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xydap0/\" target=\"_blank\" rel=\"noopener noreferrer\">A 61-point link post</a> says employees warned the board of &quot;irreplaceable&quot; talent loss in a letter. Searches found reports of an internal letter, and of a staff suggestion-box post with more than 1,600 comments, but not that word. One comment in the thread pushed back on the &quot;fired&quot; framing: &quot;They didn't fire him. He resigned for the other stuff.&quot;</p>",
+              "text": "CBS puts the reinstatement petition at more than 180,000 signatures, including more than 9,000 NVIDIA employees. A 61-point link post says employees warned the board of \"irreplaceable\" talent loss in a letter. Searches found reports of an internal letter, and of a staff suggestion-box post with more than 1,600 comments, but not that word. One comment in the thread pushed back on the \"fired\" framing: \"They didn't fire him. He resigned for the other stuff.\" Reported · petition count via CBS ; the employee posting via Decrypt and FourWeekMBA ; the \"irreplaceable\" letter is not confirmed",
+              "status": "reported",
+              "status_html": "<p>Reported · petition count via <a href=\"https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/\" target=\"_blank\" rel=\"noopener noreferrer\">CBS</a>; the employee posting via <a href=\"https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report?amp=1\" target=\"_blank\" rel=\"noopener noreferrer\">Decrypt</a> and <a href=\"https://fourweekmba.com/ai-nvidia-staff-post-on-ex-ceo-huang-draws-1600-comments/\" target=\"_blank\" rel=\"noopener noreferrer\">FourWeekMBA</a>; the &quot;irreplaceable&quot; letter is not confirmed</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "cbsnews.com",
+                "decrypt.co",
+                "fourweekmba.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Products and data center",
+          "category": "products",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>NVIDIA announced Rubin HPC, a GPU for science and engineering workloads, and an expanded Vera CPU platform on 16 November.</strong>",
+              "html": "<p><strong>NVIDIA announced Rubin HPC, a GPU for science and engineering workloads, and an expanded Vera CPU platform on 16 November.</strong> Both came with SC26 posts, which also claim an MLPerf sweep for Vera Rubin. The only mention on the sub is one comment citing Rubin HPC as evidence that customers are not &quot;running away&quot;. The MLPerf result is NVIDIA's claim; this run did not look for independent results.</p>",
+              "text": "NVIDIA announced Rubin HPC, a GPU for science and engineering workloads, and an expanded Vera CPU platform on 16 November. Both came with SC26 posts, which also claim an MLPerf sweep for Vera Rubin. The only mention on the sub is one comment citing Rubin HPC as evidence that customers are not \"running away\". The MLPerf result is NVIDIA's claim; this run did not look for independent results. Verified that the announcements exist, against the Rubin HPC blog and the Vera release ; performance claims are NVIDIA's",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> that the announcements exist, against <a href=\"https://blogs.nvidia.com/blog/rubin-hpc/\" target=\"_blank\" rel=\"noopener noreferrer\">the Rubin HPC blog</a> and <a href=\"https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery\" target=\"_blank\" rel=\"noopener noreferrer\">the Vera release</a>; performance claims are NVIDIA's</p>",
+              "updated": null,
+              "sources": [
+                "blogs.nvidia.com",
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;NVDA forward PE is 10x,&quot; says <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xxyprx/\" target=\"_blank\" rel=\"noopener noreferrer\">a 36-point post</a>, dividing a $155 share price by a FY2028 EPS forecast of $15.84.</strong>",
+              "html": "<p><strong>&quot;NVDA forward PE is 10x,&quot; says <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xxyprx/\" target=\"_blank\" rel=\"noopener noreferrer\">a 36-point post</a>, dividing a $155 share price by a FY2028 EPS forecast of $15.84.</strong> The poster gives no source for the forecast. The top reply: &quot;market is pricing in that earnings will go down&quot;. A companion post, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xxwev6/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Cheapest Stock in S&amp;P 500&quot;</a> (165 points, 249 comments), drew the counter that SanDisk's P/E is lower. It also drew one comment arguing that 20 to 30% of revenue is &quot;probably illegal sales to China&quot;, a figure it gives no source for.</p>",
+              "text": "\"NVDA forward PE is 10x,\" says a 36-point post , dividing a $155 share price by a FY2028 EPS forecast of $15.84. The poster gives no source for the forecast. The top reply: \"market is pricing in that earnings will go down\". A companion post, \"Cheapest Stock in S&P 500\" (165 points, 249 comments), drew the counter that SanDisk's P/E is lower. It also drew one comment arguing that 20 to 30% of revenue is \"probably illegal sales to China\", a figure it gives no source for. Single source · figures as posted",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong><a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xyke59/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;The Setup Going Into NVDA Earnings&quot;</a> says options were pricing a roughly 10% move, from $156.</strong>",
+              "html": "<p><strong><a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xyke59/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;The Setup Going Into NVDA Earnings&quot;</a> says options were pricing a roughly 10% move, from $156.</strong> The poster lists what to watch on the call: Kress's plans for customer financing, supply and memory, export-related revenue, buybacks, and whether a FY2028 outlook is given. A preview post lists third-quarter guidance of $108B revenue and 74% gross margin. That matches the guidance reported in pre-earnings coverage.</p>",
+              "text": "\"The Setup Going Into NVDA Earnings\" says options were pricing a roughly 10% move, from $156. The poster lists what to watch on the call: Kress's plans for customer financing, supply and memory, export-related revenue, buybacks, and whether a FY2028 outlook is given. A preview post lists third-quarter guidance of $108B revenue and 74% gross margin. That matches the guidance reported in pre-earnings coverage. Single source · figures as posted; guidance as reported by Betafinch , not checked against NVIDIA's release",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures as posted; guidance as reported by <a href=\"https://betafinch.com/blog/nvidia-fiscal-2027-data-center-guidance\" target=\"_blank\" rel=\"noopener noreferrer\">Betafinch</a>, not checked against NVIDIA's release</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock",
+                "betafinch.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Most of the top threads, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xybrc5/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Tech leaders are convinced… a plot&quot;</a> (277 points) and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xxbg45/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;They wanted to destroy the influence Jensen had&quot;</a> (168), blame Secretary of State Rubio and Treasury Secretary Bessent.</strong>",
+              "html": "<p><strong>Most of the top threads, <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xybrc5/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Tech leaders are convinced… a plot&quot;</a> (277 points) and <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xxbg45/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;They wanted to destroy the influence Jensen had&quot;</a> (168), blame Secretary of State Rubio and Treasury Secretary Bessent.</strong> Those names come from commenters, not from any source. One linked reply cites Reuters reporting that Bessent said NVIDIA must &quot;go outside the company&quot; for a new CEO. The most detailed comment argues the case is unsettled both ways: the strongest spy claims have been &quot;walked back or left unconfirmed&quot;, while the conduct allegations remain &quot;anonymous or single-sourced&quot;. A minority still says, in one reply's words, &quot;he gave them ammo&quot;. In the daily thread, the top comment on results day is &quot;NOBODY knows.&quot;</p>",
+              "text": "Most of the top threads, \"Tech leaders are convinced… a plot\" (277 points) and \"They wanted to destroy the influence Jensen had\" (168), blame Secretary of State Rubio and Treasury Secretary Bessent. Those names come from commenters, not from any source. One linked reply cites Reuters reporting that Bessent said NVIDIA must \"go outside the company\" for a new CEO. The most detailed comment argues the case is unsettled both ways: the strongest spy claims have been \"walked back or left unconfirmed\", while the conduct allegations remain \"anonymous or single-sourced\". A minority still says, in one reply's words, \"he gave them ammo\". In the daily thread, the top comment on results day is \"NOBODY knows.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;JD Vance says he and Trump can't confirm Alice Huang was a Chinese spy&quot; is the title of <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xyau4p/\" target=\"_blank\" rel=\"noopener noreferrer\">a 91-point link post</a>.</strong>",
+              "html": "<p><strong>&quot;JD Vance says he and Trump can't confirm Alice Huang was a Chinese spy&quot; is the title of <a href=\"https://www.reddit.com/r/NVDA_Stock/comments/1xyau4p/\" target=\"_blank\" rel=\"noopener noreferrer\">a 91-point link post</a>.</strong> One comment quotes him: &quot;the intelligence always disagrees with itself.&quot; Two searches found no report of Vance's remarks.</p>",
+              "text": "\"JD Vance says he and Trump can't confirm Alice Huang was a Chinese spy\" is the title of a 91-point link post . One comment quotes him: \"the intelligence always disagrees with itself.\" Two searches found no report of Vance's remarks. Unconfirmed · WebSearch",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · WebSearch</p>",
+              "updated": null,
+              "sources": [
+                "r/NVDA_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;China has an 80 billion order of ban approved chips in hong Kong right now,&quot; says one comment in the GPU restrictions thread.</strong>",
+              "html": "<p><strong>&quot;China has an 80 billion order of ban approved chips in hong Kong right now,&quot; says one comment in the GPU restrictions thread.</strong> It gives no source.</p>",
+              "text": "\"China has an 80 billion order of ban approved chips in hong Kong right now,\" says one comment in the GPU restrictions thread. It gives no source. Unconfirmed · not searched beyond the thread; one comment",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · not searched beyond the thread; one comment</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> NVDA_Stock (24 hot posts, 13 threads read in full, including the 17 November daily thread).",
+              "html": "<p><strong>Read:</strong> NVDA_Stock (24 hot posts, 13 threads read in full, including the 17 November daily thread). <strong>Sources checked:</strong> NVIDIA SEC filings (a 13F-HR on 16 November; nothing else since the 12 November 8-K), NVIDIA Newsroom (first page only, which covers 16 to 17 November; 13 to 15 November not seen). NVIDIA investor events was not fetched. Third-quarter results were not out when this ran: neither the newsroom nor a search found them.</p>",
+              "text": "Read: NVDA_Stock (24 hot posts, 13 threads read in full, including the 17 November daily thread). Sources checked: NVIDIA SEC filings (a 13F-HR on 16 November; nothing else since the 12 November 8-K), NVIDIA Newsroom (first page only, which covers 16 to 17 November; 13 to 15 November not seen). NVIDIA investor events was not fetched. Third-quarter results were not out when this ran: neither the newsroom nor a search found them.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> NVIDIA&#x27;s 13F-HR for its own holdings (16 November); SC26 blog posts on DGX Spark, Lambda and NVIDIA photonics, Slurm and quantum, CUDA-X…",
+              "html": "<p><strong>Announced, not discussed:</strong> <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001045810&amp;type=13F-HR&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's 13F-HR</a> for its own holdings (16 November); SC26 blog posts on <a href=\"https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/\" target=\"_blank\" rel=\"noopener noreferrer\">DGX Spark</a>, <a href=\"https://blogs.nvidia.com/blog/lambda-photonics/\" target=\"_blank\" rel=\"noopener noreferrer\">Lambda and NVIDIA photonics</a>, <a href=\"https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/\" target=\"_blank\" rel=\"noopener noreferrer\">Slurm and quantum</a>, <a href=\"https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/\" target=\"_blank\" rel=\"noopener noreferrer\">CUDA-X for agents</a>, <a href=\"https://blogs.nvidia.com/blog/20-years-cuda/\" target=\"_blank\" rel=\"noopener noreferrer\">CUDA at 20</a> and <a href=\"https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/\" target=\"_blank\" rel=\"noopener noreferrer\">the AI infrastructure supply chain</a> (16 November).</p>",
+              "text": "Announced, not discussed: NVIDIA's 13F-HR for its own holdings (16 November); SC26 blog posts on DGX Spark , Lambda and NVIDIA photonics , Slurm and quantum , CUDA-X for agents , CUDA at 20 and the AI infrastructure supply chain (16 November). Verified against the NVIDIA Newsroom and SEC EDGAR",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news\" target=\"_blank\" rel=\"noopener noreferrer\">the NVIDIA Newsroom</a> and <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001045810&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">SEC EDGAR</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "blogs.nvidia.com",
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;fy2028&quot; is covered under Valuation, as the forward P/E basis.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;fy2028&quot; is covered under Valuation, as the forward P/E basis. &quot;estimates&quot; is a common word, not a name.</p>",
+              "text": "Flagged terms set aside: \"fy2028\" is covered under Valuation, as the forward P/E basis. \"estimates\" is a common word, not a name.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Skipped as memes, personal or content-free: the Epic Games CEO screenshot, &quot;21st Century Oppenheimer&quot;, &quot;NVIDIA after Jensen&quot; (a YouTube plug), &quot;A different t…",
+              "html": "<p>Skipped as memes, personal or content-free: the Epic Games CEO screenshot, &quot;21st Century Oppenheimer&quot;, &quot;NVIDIA after Jensen&quot; (a YouTube plug), &quot;A different take by Jensen&quot; (no comments), the Nader Khalil X post, the open-source petition aggregator post, the Tom Lee clip, the Business Insider repeat of Trump's remarks, and the Barchart link. The Fermilab, IBM and NVIDIA quantum post had no comments and was not checked.</p>",
+              "text": "Skipped as memes, personal or content-free: the Epic Games CEO screenshot, \"21st Century Oppenheimer\", \"NVIDIA after Jensen\" (a YouTube plug), \"A different take by Jensen\" (no comments), the Nader Khalil X post, the open-source petition aggregator post, the Tom Lee clip, the Business Insider repeat of Trump's remarks, and the Barchart link. The Fermilab, IBM and NVIDIA quantum post had no comments and was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "title": "NVDA stock digest",
@@ -711,13 +970,28 @@
         },
         {
           "headline": "<strong>The permanent CEO search after Jensen Huang's resignation on 12 November 2026.</strong>",
-          "html": "<p><strong>The permanent CEO search after Jensen Huang's resignation on 12 November 2026.</strong> Huang stepped down as president, CEO and director with immediate effect. CFO Colette Kress is interim CEO and stays CFO, and Harvey C. Jones became the board's first chair. The board says it will consider internal and external candidates. It told CNBC, as quoted on the sub, that it has not chosen a search firm or &quot;formally engaged any potential candidates&quot;. Altimeter's Gerstner and Atreides' Baker have asked the board, in a reported letter, not to rush and to keep Huang's return &quot;on the table&quot;. A claim that the FT reported an approach to Arm's Rene Haas is unconfirmed. Watch for a named successor or search firm.</p>",
-          "text": "The permanent CEO search after Jensen Huang's resignation on 12 November 2026. Huang stepped down as president, CEO and director with immediate effect. CFO Colette Kress is interim CEO and stays CFO, and Harvey C. Jones became the board's first chair. The board says it will consider internal and external candidates. It told CNBC, as quoted on the sub, that it has not chosen a search firm or \"formally engaged any potential candidates\". Altimeter's Gerstner and Atreides' Baker have asked the board, in a reported letter, not to rush and to keep Huang's return \"on the table\". A claim that the FT reported an approach to Arm's Rene Haas is unconfirmed. Watch for a named successor or search firm. Verified against the 8-K exhibit for the resignation and interim roles; the search status and the investors' letter are Reported · 2026-11-14",
+          "html": "<p><strong>The permanent CEO search after Jensen Huang's resignation on 12 November 2026.</strong> Huang stepped down as president, CEO and director with immediate effect. CFO Colette Kress is interim CEO and stays CFO, and Harvey C. Jones became the board's first chair. The board says it will consider internal and external candidates. It told CNBC, as quoted on the sub, that it has not chosen a search firm or &quot;formally engaged any potential candidates&quot;. Altimeter's Gerstner and Atreides' Baker have asked the board, in a reported letter, not to rush and to keep Huang's return &quot;on the table&quot;. A claim that the FT reported an approach to Arm's Rene Haas is unconfirmed. On 16 November a source told CNBC the board is not considering bringing Huang back, the same day President Trump said &quot;I would not mind seeing that&quot;, per CBS. A reinstatement petition reportedly has more than 180,000 signatures. Watch for a named successor or search firm.</p>",
+          "text": "The permanent CEO search after Jensen Huang's resignation on 12 November 2026. Huang stepped down as president, CEO and director with immediate effect. CFO Colette Kress is interim CEO and stays CFO, and Harvey C. Jones became the board's first chair. The board says it will consider internal and external candidates. It told CNBC, as quoted on the sub, that it has not chosen a search firm or \"formally engaged any potential candidates\". Altimeter's Gerstner and Atreides' Baker have asked the board, in a reported letter, not to rush and to keep Huang's return \"on the table\". A claim that the FT reported an approach to Arm's Rene Haas is unconfirmed. On 16 November a source told CNBC the board is not considering bringing Huang back, the same day President Trump said \"I would not mind seeing that\", per CBS. A reinstatement petition reportedly has more than 180,000 signatures. Watch for a named successor or search firm. Verified against the 8-K exhibit for the resignation and interim roles; the search status, the investors' letter and the board's stance on a return are Reported via CNBC and CBS · 2026-11-17",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K exhibit</a> for the resignation and interim roles; the search status and the investors' letter are Reported · 2026-11-14</p>",
-          "updated": "2026-11-14",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K exhibit</a> for the resignation and interim roles; the search status, the investors' letter and the board's stance on a return are Reported via <a href=\"https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/\" target=\"_blank\" rel=\"noopener noreferrer\">CBS</a> · 2026-11-17</p>",
+          "updated": "2026-11-17",
           "sources": [
-            "SEC filing"
+            "SEC filing",
+            "CNBC",
+            "cbsnews.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>The board's National Security and Export Control Oversight Committee, a standing committee set up on 17 November 2026.</strong>",
+          "html": "<p><strong>The board's National Security and Export Control Oversight Committee, a standing committee set up on 17 November 2026.</strong> Suzanne Nora Johnson chairs it, with Stephen C. Neal and John O. Dabiri. NVIDIA's National Security and Global Trade Compliance teams report to it, and it meets at least quarterly. Watch for its first actions or disclosures.</p>",
+          "text": "The board's National Security and Export Control Oversight Committee, a standing committee set up on 17 November 2026. Suzanne Nora Johnson chairs it, with Stephen C. Neal and John O. Dabiri. NVIDIA's National Security and Global Trade Compliance teams report to it, and it meets at least quarterly. Watch for its first actions or disclosures. Verified against the NVIDIA Newsroom · 2026-11-17",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee\" target=\"_blank\" rel=\"noopener noreferrer\">the NVIDIA Newsroom</a> · 2026-11-17</p>",
+          "updated": "2026-11-17",
+          "sources": [
+            "nvidianews.nvidia.com"
           ],
           "due": null,
           "due_label": null
@@ -744,11 +1018,11 @@
       "items": [
         {
           "headline": "<strong>Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT.</strong>",
-          "html": "<p><strong>Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT.</strong> The quarter ended 25 October 2026. The 12 November CEO transition release confirms the date is unchanged; interim CEO Colette Kress, who is also CFO, will lead it.</p>",
-          "text": "Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT. The quarter ended 25 October 2026. The 12 November CEO transition release confirms the date is unchanged; interim CEO Colette Kress, who is also CFO, will lead it. Verified against NVIDIA's announcement and the CEO transition release · 2026-11-14",
+          "html": "<p><strong>Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT.</strong> The quarter ended 25 October 2026. The 12 November CEO transition release confirms the date is unchanged; interim CEO Colette Kress, who is also CFO, will lead it. Guidance was $108B revenue, plus or minus 2%, and a 74% gross margin, as reported in previews. The results were not yet out when the 17 November run was taken.</p>",
+          "text": "Third-quarter fiscal 2027 results: Tuesday 17 November 2026, call at 2 p.m. PT, CFO commentary at about 1:20 p.m. PT. The quarter ended 25 October 2026. The 12 November CEO transition release confirms the date is unchanged; interim CEO Colette Kress, who is also CFO, will lead it. Guidance was $108B revenue, plus or minus 2%, and a 74% gross margin, as reported in previews. The results were not yet out when the 17 November run was taken. Verified against NVIDIA's announcement and the CEO transition release ; guidance figures Reported · 2026-11-17",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's announcement</a> and <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener noreferrer\">the CEO transition release</a> · 2026-11-14</p>",
-          "updated": "2026-11-14",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873\" target=\"_blank\" rel=\"noopener noreferrer\">NVIDIA's announcement</a> and <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener noreferrer\">the CEO transition release</a>; guidance figures Reported · 2026-11-17</p>",
+          "updated": "2026-11-17",
           "sources": [
             "nvidianews.nvidia.com"
           ],
@@ -805,13 +1079,14 @@
       "items": [
         {
           "headline": "<strong>Why Megaspeed was never put on the entity list.</strong>",
-          "html": "<p><strong>Why Megaspeed was never put on the entity list.</strong> As reported by Axios, Treasury Secretary Bessent pressed Commerce Secretary Lutnick on it, and House Democrats want written answers from Lutnick by 1 December on what his officials knew.</p>",
-          "text": "Why Megaspeed was never put on the entity list. As reported by Axios, Treasury Secretary Bessent pressed Commerce Secretary Lutnick on it, and House Democrats want written answers from Lutnick by 1 December on what his officials knew. Reported · Axios via AI Weekly · 2026-11-14",
+          "html": "<p><strong>Why Megaspeed was never put on the entity list.</strong> As reported by Axios, Treasury Secretary Bessent pressed Commerce Secretary Lutnick on it, and House Democrats want written answers from Lutnick by 1 December on what his officials knew. On 16 November, Commerce and Justice said in a joint statement, as reported, that they began investigating Megaspeed in 2024, that NVIDIA put it on its &quot;no sell&quot; list in June 2025 after Commerce asked for its sales records, and that the Justice Department now leads a criminal investigation of Megaspeed. No charges have been announced, and the statement does not mention Jensen Huang. Watch for charges.</p>",
+          "text": "Why Megaspeed was never put on the entity list. As reported by Axios, Treasury Secretary Bessent pressed Commerce Secretary Lutnick on it, and House Democrats want written answers from Lutnick by 1 December on what his officials knew. On 16 November, Commerce and Justice said in a joint statement, as reported, that they began investigating Megaspeed in 2024, that NVIDIA put it on its \"no sell\" list in June 2025 after Commerce asked for its sales records, and that the Justice Department now leads a criminal investigation of Megaspeed. No charges have been announced, and the statement does not mention Jensen Huang. Watch for charges. Reported · Axios via AI Weekly ; the joint statement via CNBC , not read at source · 2026-11-17",
           "status": "reported",
-          "status_html": "<p>Reported · Axios via <a href=\"https://aiweekly.co/alerts/bessent-confronts-lutnick-over-megaspeed-entity-list-delay\" target=\"_blank\" rel=\"noopener noreferrer\">AI Weekly</a> · 2026-11-14</p>",
-          "updated": "2026-11-14",
+          "status_html": "<p>Reported · Axios via <a href=\"https://aiweekly.co/alerts/bessent-confronts-lutnick-over-megaspeed-entity-list-delay\" target=\"_blank\" rel=\"noopener noreferrer\">AI Weekly</a>; the joint statement via <a href=\"https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a>, not read at source · 2026-11-17</p>",
+          "updated": "2026-11-17",
           "sources": [
-            "aiweekly.co"
+            "aiweekly.co",
+            "CNBC"
           ],
           "due": "2026-12-01",
           "due_label": "House Democrats' deadline for Lutnick's answers"
@@ -839,6 +1114,20 @@
           "sources": [
             "Investing.com",
             "cnn.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Commerce's interim final rule of 16 November 2026 requires licences for advanced AI chips going to Brazil, Indonesia, Malaysia, Singapore and Thailand, and for data centres giving Chinese or other embargoed-country companies more than 12 million aggregate TPP of compute.</strong>",
+          "html": "<p><strong>Commerce's interim final rule of 16 November 2026 requires licences for advanced AI chips going to Brazil, Indonesia, Malaysia, Singapore and Thailand, and for data centres giving Chinese or other embargoed-country companies more than 12 million aggregate TPP of compute.</strong> As reported, there is an exception for US-headquartered companies that meet reporting requirements, and the rule rescinds the January 2025 AI Diffusion Rule. It takes effect on publication in the Federal Register. One outlet puts customers based in the five countries at &quot;at most 1.3%&quot; of NVIDIA revenue. Watch for the Federal Register date, and for NVIDIA's own estimate of the exposure.</p>",
+          "text": "Commerce's interim final rule of 16 November 2026 requires licences for advanced AI chips going to Brazil, Indonesia, Malaysia, Singapore and Thailand, and for data centres giving Chinese or other embargoed-country companies more than 12 million aggregate TPP of compute. As reported, there is an exception for US-headquartered companies that meet reporting requirements, and the rule rescinds the January 2025 AI Diffusion Rule. It takes effect on publication in the Federal Register. One outlet puts customers based in the five countries at \"at most 1.3%\" of NVIDIA revenue. Watch for the Federal Register date, and for NVIDIA's own estimate of the exposure. Reported · DCD and Bloomberg ; the BIS text was not read · 2026-11-17",
+          "status": "reported",
+          "status_html": "<p>Reported · <a href=\"https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/\" target=\"_blank\" rel=\"noopener noreferrer\">DCD</a> and <a href=\"https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips\" target=\"_blank\" rel=\"noopener noreferrer\">Bloomberg</a>; the BIS text was not read · 2026-11-17</p>",
+          "updated": "2026-11-17",
+          "sources": [
+            "datacenterdynamics.com",
+            "Bloomberg"
           ],
           "due": null,
           "due_label": null
